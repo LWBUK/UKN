@@ -1,0 +1,559 @@
+
+
+=====================================================================
+== C:\Users\Administrator\Desktop\overpoch\arma2oaserveroverpoch.exe
+== "arma2oaserveroverpoch.exe"  -ip=78.31.67.100 -port=6300 -noPause  "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayzOverwatch;@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/12/12 13:39:47
+Current time:  2017/03/03 12:09:14
+
+Version 1.63.131129
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Conflicting addon Monaro in 'holdenmonarocop\', previous definition in 'holdenmonaro\'
+File nissan_350z\config.cpp, line 244: '/CfgVehicles/350zBase/Library.libTextDesc': Missing ';' prior '}'
+Unsupported language English in stringtable
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</German>
+		<English>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</English>
+		<Italian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Italian>
+		<Spanish>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Spanish>
+		<French>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</French>
+		<Czech>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Czech>
+		<Russian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Russian>
+		<Polish>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Polish>
+		<Hungarian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Hungarian>
+    </Key>
+    <Key ID="STR_VIL_AKS74UB_BS1_SHORT">
+      <German>Compact assault rifle with silenced grenade launcher&lt'
+Item STR_VIL_DN_BS1 listed twice
+Item STR_AUTHOR_VILAS listed twice
+Item STR_VIL_EASTERN listed twice
+Item STR_VIL_WEAPONS listed twice
+Item str_dss_10rnd_vss listed twice
+Item str_dss_20rnd_vss listed twice
+Item str_dn_20rnd_9x39_sp5_vss listed twice
+Item str_dn_ak_107_gl_pso listed twice
+Item str_dn_ak_107_kobra listed twice
+Item str_dn_M40A3 listed twice
+Item str_dn_rpk_74 listed twice
+Item str_ep1_dn_fn_fal listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->Car, by holdenmonaro\config.bin/CfgVehicles/Car_sedan/
+Updating base class ->Man, by nof_fsk\config.cpp/CfgVehicles/CAManBase/
+Updating base class ->BulletCore, by ca\weapons\config.bin/CfgAmmo/BulletBase/
+Updating base class ->GrenadeCore, by ca\weapons\config.bin/CfgAmmo/GrenadeBase/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/GrenadeLauncher/
+Updating base class ->RifleCore, by ca\weapons\config.bin/cfgWeapons/Rifle/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/US_Patrol_Pack_EP1/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/US_Backpack_EP1/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/CZ_Backpack_EP1/
+Updating base class Man->CAManBase, by ca\characters\config.bin/CfgVehicles/Civilian/
+Updating base class TalkTopics->TalkTopics, by bb_mercs_desert\config.bin/CfgVehicles/SoldierWB/TalkTopics/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Light/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier2/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_GL/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Officer/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_SL/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_TL/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_LAT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_HAT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AA/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Medic/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AR/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_MG/
+Updating base class ->USMC_SoldierS_Sniper, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS_SniperH/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierM_Marksman/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS_Engineer/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_TL/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_R/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Marksman/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Corpsman/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_AR/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_GL/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Sapper/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_AC/
+Updating base class ->RU_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/RU_Soldier2/
+Updating base class Soldier->MVD_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/MVD_Soldier/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->US_Soldier_Base_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_EP1/
+Updating base class ->US_Soldier_Base_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_TL_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Medic_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_AR_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Marksman_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Air_Controller_EP1/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_M2/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_TOW/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_MK19/
+Updating base class Car->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->Pickup_PK_base, by ca\wheeled\datsun_armed\config.bin/CfgVehicles/Pickup_PK_GUE/
+Updating base class ->Offroad_DSHKM_base, by ca\wheeled\hilux_armed\config.bin/CfgVehicles/Offroad_DSHKM_Gue/
+Updating base class ->Offroad_DSHKM_base, by ca\wheeled\hilux_armed\config.bin/CfgVehicles/Offroad_SPG9_Gue/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face1/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face2/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face3/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face4/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face5/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face5_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face6/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face6_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face7/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face8/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face8_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face9/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face10/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face11/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face12/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face13/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face13_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face14/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face15/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face16/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face17/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face18/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face19/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face20/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face21/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face22/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face23/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face24/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face25/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face26/
+Updating base class ->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face27/
+Updating base class ->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face28/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face29/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face30/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face31/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face32/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face33/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet_2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Kevlar_Helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Kevlar_Helmet_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/wdl_helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Barett/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/US_green_beret/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/US_black_beret/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Barett_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Bdu_cap/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Bdu_cap_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/b_TacticalGlasses/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/headset/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/headset_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_red/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_helmet2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_mask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_mask_v/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_v/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/skull_cap/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/skull_cap2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/taliban_hat_shadow/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/dive_mask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/BlackSun_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/RedSun_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/None_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/goggles_winter/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class AKS_BASE->AK_BASE, by vilas_aks_cfg\config.cpp/cfgWeapons/AKS_74_UN_kobra/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class AK_BASE->AKS_BASE, by ca\communityconfigurationproject_e\ai_madeaks74unkobrafullysilenced\config.bin/CfgWeapons/AKS_74_UN_kobra/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class ->Mode_FullAuto, by corepatch\corepatch_ccp_68220\config.cpp/CfgWeapons/G36a/FullAuto/
+Updating base class ->Mode_SemiAuto, by corepatch\corepatch_ccp_68220\config.cpp/CfgWeapons/G36a/Single/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+12:09:19 Initializing Steam server - Game Port: 6300, Steam Query Port: 6301
+12:09:20 Connected to Steam servers
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:09:46 Server error: Player without identity HighFlyer (id 76576631)
+12:10:00 Strange convex component81 in zero_buildings\models\housev_3i3_i.p3d:geometryFire
+12:10:01 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+12:10:01 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+12:10:01 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+12:10:01 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+12:10:03 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+12:10:03 "DayZ Epoch: MPframework inited"
+12:10:03 "Loading Server Options"
+12:10:03 "infiSTAR.de - Waiting for BIS_fnc_init..."
+12:10:04 Strange convex component93 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component94 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component95 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component96 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component99 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component100 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component101 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component102 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component103 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component104 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component105 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component106 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component107 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component108 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component109 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component110 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component111 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component112 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component113 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component114 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component115 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component116 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component117 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component118 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component119 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component120 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component121 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component122 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component123 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component124 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component125 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component126 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component127 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component128 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component129 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component130 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component131 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component132 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component133 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:04 Strange convex component134 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:10:06 "infiSTAR.de - BIS_fnc_init done - AntiHack STARTING...!"
+12:10:06 Warning Message: Script low_admins.sqf not found
+12:10:06 Warning Message: Script normal_admins.sqf not found
+12:10:06 Warning Message: Script super_admins.sqf not found
+12:10:06 Warning Message: Script blacklist.sqf not found
+12:10:06 "infiSTAR.de - iproductVersion: 27-Jun-2016 15-16-24-v1431A | Server productVersion: ["ArmA 2 OA","ArmA2OA",163,131129] | worldName: Chernarus | dayz_instance: 11 | missionName: DayZ_Epoch_11"
+12:10:06 "infiSTAR.de - _fnc_RandomGen: {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['6','U','1','l','w','q','e','L','Q','c','1','c','k','H','D','C','d','U','X','W','8','w','Q','e','X','T','j','b','h','M'];
+for '_i' from 0 to (8+(round(random 3))) do {_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));};
+_gen
+}"
+12:10:06 "infiSTAR.de - _simple: w1j515U9d886j6j26112Q4Q"
+12:10:06 "infiSTAR.de - _dialogIds: x6Q3H8U3C0L6c5w1D7Q2e"
+12:10:06 "infiSTAR.de - _badtxts: j9U987b71763w986X4k0b"
+12:10:06 "infiSTAR.de - _randvar1: l7W5c5q8c9U0D8j1q4c11"
+12:10:06 "infiSTAR.de - _randvar2: l2T4l8j4H5j3W4h6Q8Q8U7X3w"
+12:10:06 "infiSTAR.de - _randvar0: b3C5Q5c8H0T1X2H2X4e6X1U"
+12:10:06 "infiSTAR.de - _randvar3: b8b4q51617d4d1e3W3b1c3d4j"
+12:10:06 "infiSTAR.de - _randvar4: q7d4q5Q2q9k0h7k9w7Q5e"
+12:10:06 "infiSTAR.de - _randvar5: g9h5q7U4e1W2w6L1d1l8Q5h"
+12:10:06 "infiSTAR.de - _randvar6: b911l5X9L8w1U6H2H9H8h"
+12:10:06 "infiSTAR.de - _randvar8: v4U6Q6e7w0h818X2U61"
+12:10:06 "infiSTAR.de - _randvar11: k8Q716W8C689U4M2Q2k4Q"
+12:10:06 "infiSTAR.de - _randvar12: w8T2W3q9U8w7k0C1q8Q8c4U2b"
+12:10:06 "infiSTAR.de - _randvar13: z4j1w6e7q0k8e1c4d4k2b"
+12:10:06 "infiSTAR.de - _randvar19: e1w8H3Q2L0l7e4Q1T7Q7D5C"
+12:10:06 "infiSTAR.de - _randvar20: j7c3C3X7L4C4d1w8e4X"
+12:10:06 "infiSTAR.de - _randvar27: o8L287l6e362T5w3c1b"
+12:10:06 "infiSTAR.de - _randvar26: n7X3T4Q3T3e4U1C216q8C"
+12:10:06 "infiSTAR.de - _randvar25: d7w3T4b3L4L2D8w6w3e"
+12:10:06 "infiSTAR.de - _randvar31: j3c51014C9Q1U3d5X1H5l"
+12:10:06 "infiSTAR.de - _randvar32: k5X0h5X2h4U5X7M2l8j4U4d"
+12:10:06 "infiSTAR.de - _randvar33: n7M4X8e816T6X1T5Q762h0D4Q"
+12:10:06 "infiSTAR.de - _randvar34: d4U866d5b5k5e5U4w3q3c81"
+12:10:06 "infiSTAR.de - _randvar35: l019Q5c318j7w6w1Q1q5b"
+12:10:06 "infiSTAR.de - _randvar36: u5j1k0d2q6k6h6e6j8e"
+12:10:06 "infiSTAR.de - _randvar327537: u1e6X0e4U3c467X1C085L0c"
+12:10:06 "infiSTAR.de - _randvar38: t8c1h3j7D1U6k5W6X5c2e"
+12:10:06 "infiSTAR.de - _randvar39: z8j3e4Q417w5U2L516q58"
+12:10:06 "infiSTAR.de - _clickOnMapTimer: r165w515H718k4U317e0U280l"
+12:10:06 "infiSTAR.de - _clickOnMapCaught: b6W812U9e7C2Q0j8k2L4H"
+12:10:06 "infiSTAR.de - _fnc_handlerandvar10: z7L3q913T3X1Q7c2e4l4l"
+12:10:06 "infiSTAR.de - _remark: h0Q886j7k4X217q2c3d4w2w"
+12:10:06 "infiSTAR.de - _AHpos: q5h687T7w4X4j6e319Q8U"
+12:10:06 "infiSTAR.de - _loadedcheckpos: r8Q4e6c864w4X9X2C482e11"
+12:10:06 "infiSTAR.de - _loadedchecktime: h6U8D4k4l4H3d6l7C1C4L"
+12:10:06 "infiSTAR.de - _MenuChecksRunningx: n3e5j6d4M6M6C0c5q4q6U"
+12:10:06 "infiSTAR.de - _oneachframe: f9U1M8w3X3h2c212h8c1j"
+12:10:06 "infiSTAR.de - _anotherloop: l187U2U1k8T1X1H1k2e6d7U"
+12:10:06 "infiSTAR.de - _clientoncetwo: e4T0H5c26317d6l3w7W4U4c2X"
+12:10:06 "infiSTAR.de - _lastUnlock: w6X5q5Q3l312T9H8X2C"
+12:10:06 "infiSTAR.de - _AdminReqCheck: u7L2Q5C611e5T218d0D"
+12:10:06 "infiSTAR.de - _antidupeCheckVar: a2C7H5k4X5U812q6L7M8X"
+12:10:06 "infiSTAR.de - _antidupePVCheckVar: PVAHR_0_n264e6D0U6X8W9c2c7h2k5w7C"
+12:10:06 "infiSTAR.de - _antidupePVResVar: PVAHR_0_s5e1d2d8W3X7w2W8X0b916T6M"
+12:10:06 "infiSTAR.de - _antiantihack_rndvar: PVAHR_0_f9c2b0W1b9b7U7T7c5h3b"
+12:10:06 "infiSTAR.de - _randvar327510: PVAHR_0_k6D881H4W7h3l7e3e7C7j"
+12:10:06 "infiSTAR.de - AntiHack LOADED!"
+12:10:06 "infiSTAR.de - CREATING AdminMenu"
+12:10:06 "infiSTAR.de - AdminMenu LOADED!"
+12:10:06 "infiSTAR.de - ADDING PublicVariableEventHandlers"
+12:10:06 "infiSTAR.de - AntiHack FULLY LOADED"
+12:10:06 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+12:10:07 BIKE: loading version 2.5.1 ...
+12:10:07 BIKE: adding bike to safe vehicle list...
+12:10:07 "Loading Server Monitor & Server Executions!"
+12:10:07 "Loading Dedicated Executions!"
+12:10:07 "Res3tting B!S effects..."
+12:10:07 "Fully loaded Init"
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:10:07 "HIVE: Starting"
+12:10:07 "HIVE: trying to get objects"
+12:10:07 "HIVE: found 308 objects"
+12:10:07 "HIVE: Commence Object Streaming..."
+12:10:07 "HIVE: got 4 Epoch Objects and 304 Vehicles"
+12:10:08 Cannot create non-ai vehicle Land_stanek_3,
+12:10:08 Cannot create non-ai vehicle LAND_MASH,
+12:10:08 Cannot create non-ai vehicle LAND_Stan_east,
+12:10:08 Cannot create non-ai vehicle LAND_P_Stavebni_kozy,
+12:10:08 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:10:08 Cannot create non-ai vehicle LAND_Misc_palletsfoiled_heap,
+12:10:08 Cannot create non-ai vehicle LAND_P_ytong,
+12:10:08 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:10:08 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:10:08 Cannot create non-ai vehicle LAND_P_Ladder,
+12:10:08 Cannot create non-ai vehicle LAND_garbage_misc,
+12:10:08 350z: ABSwitch - unknown animation source ABSwitch
+12:10:08 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+12:10:08 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+12:10:08 350z_v: ABSwitch - unknown animation source ABSwitch
+12:10:08 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+12:10:08 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+12:10:08 "[VEHICLE CLEANUP ZONE]: selecting world to cleanup ..."
+12:10:09 350z_yellow: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_city: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_gold: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_black: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_white: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_blue: ABSwitch - unknown animation source ABSwitch
+12:10:09 350z_green: ABSwitch - unknown animation source ABSwitch
+12:10:10 350z_pink: ABSwitch - unknown animation source ABSwitch
+12:10:10 350z_silver: ABSwitch - unknown animation source ABSwitch
+12:10:10 "HIVE: Vehicle Spawn limit reached!"
+12:10:10 "HIVE: Spawning # of Debris: 0"
+12:10:10 "HIVE: Spawning # of Ammo Boxes: 0"
+12:10:10 "HIVE: Spawning # of Veins: 1"
+12:10:10 "Total Number of spawn locations 5"
+12:10:11 "EPOCH EVENTS INIT"
+12:10:11 Warning Message: Script z\addons\dayz_server\WAI\customsettings.sqf not found
+12:10:11 "WAI: AI Config File Loaded"
+12:10:11 "WAI: AI Monitor Started"
+12:10:11 "WAI: Initialising missions"
+12:10:21 "infiSTAR.de - Player-Log: HighFlyer(76561198302675871) - 0h 00min | ******ADMIN******"
+12:11:08 "infiSTAR.de PlayerConnected: ["76561198302675871","HighFlyer"]"
+12:11:08 "infiSTAR.de PlayerConnected: ["","__SERVER__"]"
+12:11:12 "TIME SYNC: Local Time set to [2013,8,3,13,11]"
+12:11:17 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-B:1 (HighFlyer) REMOTE,"76561198302675871"]"
+12:11:17 "infiSTAR.de ******ADMIN-LOGIN******: HighFlyer(76561198302675871)"
+12:11:17 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-B:1 (HighFlyer) REMOTE,"76561198302675871"]"
+12:11:17 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
+12:11:18 "infiSTAR.de Log: HighFlyer (76561198302675871) | New Player: ["62",[],[],[0,0,0],true,"1.0.5.1","Survivor2_DZ",true,true,0]"
+12:11:18 "["PVAHR_0_k6D881H4W7h3l7e3e7C7j",["HighFlyer","76561198302675871","SLOG_NP",[78,101,119,32,80,108,97,121,101,114,58,32,91,34,54,50,34,44,91,93,44,91,93,44,91,48,44,48,44,48,93,44,116,114,117,101,44,34,49,46,48,46,53,46,49,34,44,34,83,117,114,118,105,118,111,114,50,95,68,90,34,44,116,114,117,101,44,116,114,117,101,44,48,93]]]"
+12:11:18 "infiSTAR.de Log: HighFlyer(76561198302675871) -    Left SafeZone @086029"
+12:11:33 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   HighFlyer G_o_d ON"

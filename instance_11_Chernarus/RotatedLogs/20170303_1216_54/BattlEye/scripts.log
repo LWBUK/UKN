@@ -1,0 +1,10 @@
+03.03.2017 12:15:24: HighFlyer (86.131.103.232:2304) dea2d42442b9f7baf6c9441b3cdd4c28 - #2 ") then {
+_debug set [2,2];
+_platform = "MetalFloor_DZ" createVehicleLocal _debug;
+_platform setPosASL _debug;
+_platform allowDam"
+03.03.2017 12:15:25: HighFlyer (86.131.103.232:2304) dea2d42442b9f7baf6c9441b3cdd4c28 - #2 ") then {
+_debug set [2,2];
+_platform = "MetalFloor_DZ" createVehicleLocal _debug;
+_platform setPosASL _debug;
+_platform allowDam"

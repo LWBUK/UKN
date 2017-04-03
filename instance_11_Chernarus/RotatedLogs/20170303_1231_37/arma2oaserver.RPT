@@ -1,0 +1,981 @@
+
+
+=====================================================================
+== C:\Users\Administrator\Desktop\overpoch\arma2oaserveroverpoch.exe
+== "arma2oaserveroverpoch.exe"  -ip=78.31.67.100 -port=6300 -noPause  "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayzOverwatch;@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/12/12 13:39:47
+Current time:  2017/03/03 12:17:08
+
+Version 1.63.131129
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Conflicting addon Monaro in 'holdenmonarocop\', previous definition in 'holdenmonaro\'
+File nissan_350z\config.cpp, line 244: '/CfgVehicles/350zBase/Library.libTextDesc': Missing ';' prior '}'
+Unsupported language English in stringtable
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</German>
+		<English>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</English>
+		<Italian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Italian>
+		<Spanish>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, they were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunition new mounting brackets better suited
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Spanish>
+		<French>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</French>
+		<Czech>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Czech>
+		<Russian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Russian>
+		<Polish>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Polish>
+		<Hungarian>From world.guns.ru: &lt'
+Unknown entity: 'C inatallations and equipment, fuel and ammunition storage facilities and parked tactical aircraft. The original BS-1 system was designed for the 7.62mm Kalashnikov AKMS assault rifle with PBS-1 silencers. When the Soviet army switched over to 5.45x39mm ammunition, the AKMS assault rifles with PBS-1 silencer were replaced with AKS-74UB compact assault rifles with PBS-4 silencers. The original GSN-19 grenade launcher system was slightly reworked, primarily to use different launching ammunit
+Unknown entity: 'C equipment, and then cause enough damage to render the target inoperative. The grenade has no propelling system in itself, instead being launched by special blank cartridges which are loaded into a detachable box magazine.</Hungarian>
+    </Key>
+    <Key ID="STR_VIL_AKS74UB_BS1_SHORT">
+      <German>Compact assault rifle with silenced grenade launcher&lt'
+Item STR_VIL_DN_BS1 listed twice
+Item STR_AUTHOR_VILAS listed twice
+Item STR_VIL_EASTERN listed twice
+Item STR_VIL_WEAPONS listed twice
+Item str_dss_10rnd_vss listed twice
+Item str_dss_20rnd_vss listed twice
+Item str_dn_20rnd_9x39_sp5_vss listed twice
+Item str_dn_ak_107_gl_pso listed twice
+Item str_dn_ak_107_kobra listed twice
+Item str_dn_M40A3 listed twice
+Item str_dn_rpk_74 listed twice
+Item str_ep1_dn_fn_fal listed twice
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->Car, by holdenmonaro\config.bin/CfgVehicles/Car_sedan/
+Updating base class ->Man, by nof_fsk\config.cpp/CfgVehicles/CAManBase/
+Updating base class ->BulletCore, by ca\weapons\config.bin/CfgAmmo/BulletBase/
+Updating base class ->GrenadeCore, by ca\weapons\config.bin/CfgAmmo/GrenadeBase/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/GrenadeLauncher/
+Updating base class ->RifleCore, by ca\weapons\config.bin/cfgWeapons/Rifle/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/US_Patrol_Pack_EP1/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/US_Backpack_EP1/
+Updating base class ->Bag_Base_EP1, by ca\weapons_e\ammoboxes\config.bin/cfgVehicles/CZ_Backpack_EP1/
+Updating base class Man->CAManBase, by ca\characters\config.bin/CfgVehicles/Civilian/
+Updating base class TalkTopics->TalkTopics, by bb_mercs_desert\config.bin/CfgVehicles/SoldierWB/TalkTopics/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Light/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier2/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_GL/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Officer/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_SL/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_TL/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_LAT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_HAT/
+Updating base class ->USMC_Soldier_AT_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AA/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_Medic/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_AR/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_Soldier_MG/
+Updating base class ->USMC_SoldierS_Sniper, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS_SniperH/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierM_Marksman/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS/
+Updating base class ->USMC_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/USMC_SoldierS_Engineer/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_TL/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_R/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Marksman/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Corpsman/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_AR/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_GL/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_Sapper/
+Updating base class ->FR_Base, by ca\characters2\config.bin/CfgVehicles/FR_AC/
+Updating base class ->RU_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/RU_Soldier2/
+Updating base class Soldier->MVD_Soldier_Base, by ca\characters2\config.bin/CfgVehicles/MVD_Soldier/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->US_Soldier_Base_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_EP1/
+Updating base class ->US_Soldier_Base_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_TL_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Medic_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_AR_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Marksman_EP1/
+Updating base class ->US_Delta_Force_EP1, by ca\characters_e\config.bin/CfgVehicles/US_Delta_Force_Air_Controller_EP1/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_M2/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_TOW/
+Updating base class ->HMMWV_Base, by ca\wheeled\config.bin/CfgVehicles/HMMWV_MK19/
+Updating base class Car->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->Pickup_PK_base, by ca\wheeled\datsun_armed\config.bin/CfgVehicles/Pickup_PK_GUE/
+Updating base class ->Offroad_DSHKM_base, by ca\wheeled\hilux_armed\config.bin/CfgVehicles/Offroad_DSHKM_Gue/
+Updating base class ->Offroad_DSHKM_base, by ca\wheeled\hilux_armed\config.bin/CfgVehicles/Offroad_SPG9_Gue/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face1/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face2/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face3/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face4/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face5/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face5_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face6/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face6_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face7/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face8/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face8_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face9/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face10/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face11/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face12/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face13/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face13_camo/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face14/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face15/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face16/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face17/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face18/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face19/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face20/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face21/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face22/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face23/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face24/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face25/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face26/
+Updating base class ->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face27/
+Updating base class ->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face28/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face29/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face30/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face31/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face32/
+Updating base class Default->OW_Nope, by z\addons\dayz_code\config.bin/CfgFaces/Man/Merc_Face33/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Pro_Helmet_2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Kevlar_Helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Kevlar_Helmet_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/wdl_helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Barett/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/US_green_beret/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/US_black_beret/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Barett_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Bdu_cap/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/Bdu_cap_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/b_TacticalGlasses/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/headset/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/headset_g/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_helmet/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_red/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/gasmask_helmet2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_mask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_mask_v/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/pilot_v/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/skull_cap/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/skull_cap2/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/taliban_hat_shadow/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/dive_mask/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/BlackSun_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/RedSun_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/None_sof_w/
+Updating base class ->None, by z\addons\dayz_code\config.bin/CfgGlasses/goggles_winter/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class AKS_BASE->AK_BASE, by vilas_aks_cfg\config.cpp/cfgWeapons/AKS_74_UN_kobra/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->C130J_base, by ca\air_e\config.bin/CfgVehicles/C130J_US_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Updating base class AK_BASE->AKS_BASE, by ca\communityconfigurationproject_e\ai_madeaks74unkobrafullysilenced\config.bin/CfgWeapons/AKS_74_UN_kobra/
+Updating base class ReammoBox->Small_items, by corepatch\corepatch_additionalobjects\config.cpp/CfgVehicles/CardboardBox/
+Updating base class ->Mode_FullAuto, by corepatch\corepatch_ccp_68220\config.cpp/CfgWeapons/G36a/FullAuto/
+Updating base class ->Mode_SemiAuto, by corepatch\corepatch_ccp_68220\config.cpp/CfgWeapons/G36a/Single/
+Updating base class CA_Magazine->4000Rnd_762x51_M134, by corepatch\corepatch_ccp_71142_cit_13602_25047\config.cpp/CfgMagazines/2000Rnd_762x51_M134/
+12:17:13 Initializing Steam server - Game Port: 6300, Steam Query Port: 6301
+12:17:14 Connected to Steam servers
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:19 Server error: Player without identity HighFlyer (id 529541487)
+12:17:25 Strange convex component81 in zero_buildings\models\housev_3i3_i.p3d:geometryFire
+12:17:26 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+12:17:26 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+12:17:26 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+12:17:26 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+12:17:28 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+12:17:28 "DayZ Epoch: MPframework inited"
+12:17:28 "Loading Server Options"
+12:17:29 "infiSTAR.de - Waiting for BIS_fnc_init..."
+12:17:29 Strange convex component93 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component94 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component95 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component96 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component99 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component100 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component101 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component102 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component103 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component104 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component105 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component106 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component107 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component108 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component109 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component110 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component111 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component112 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component113 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component114 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component115 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component116 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component117 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component118 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component119 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component120 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component121 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component122 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component123 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component124 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component125 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component126 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component127 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component128 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component129 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component130 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component131 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component132 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component133 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:29 Strange convex component134 in zero_buildings\models\mil_house_i.p3d:geometryView
+12:17:32 "infiSTAR.de - BIS_fnc_init done - AntiHack STARTING...!"
+12:17:32 Warning Message: Script low_admins.sqf not found
+12:17:32 Warning Message: Script normal_admins.sqf not found
+12:17:32 Warning Message: Script super_admins.sqf not found
+12:17:32 Warning Message: Script blacklist.sqf not found
+12:17:32 "infiSTAR.de - iproductVersion: 27-Jun-2016 15-16-24-v1431A | Server productVersion: ["ArmA 2 OA","ArmA2OA",163,131129] | worldName: Chernarus | dayz_instance: 11 | missionName: DayZ_Epoch_11"
+12:17:32 "infiSTAR.de - _fnc_RandomGen: {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['6','U','1','l','w','q','e','L','Q','c','1','c','k','H','D','C','d','U','X','W','8','w','Q','e','X','T','j','b','h','M'];
+for '_i' from 0 to (8+(round(random 3))) do {_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));};
+_gen
+}"
+12:17:32 "infiSTAR.de - _simple: j1C3e6C6U1H3h8d7d6W7c"
+12:17:32 "infiSTAR.de - _dialogIds: m4l4W112T6U2C6C6W1e4H"
+12:17:32 "infiSTAR.de - _badtxts: m8X6W5Q489e7T3L1e3k4w5j"
+12:17:32 "infiSTAR.de - _randvar1: e7W6W91817e1d7T4X5U7Q"
+12:17:32 "infiSTAR.de - _randvar2: m8j3h0X3Q1Q98811811"
+12:17:32 "infiSTAR.de - _randvar0: j6T2T3c8e0e8Q1Q615w5j4U76"
+12:17:32 "infiSTAR.de - _randvar3: r814e7C2h1c5k1j581e8w"
+12:17:32 "infiSTAR.de - _randvar4: g7b4U7j0M1j7U9X2k9L4H18"
+12:17:32 "infiSTAR.de - _randvar5: y1q8b2l8X2M8e4k1l2U"
+12:17:32 "infiSTAR.de - _randvar6: h5H2Q2Q2X01613X8w6l6w9X"
+12:17:32 "infiSTAR.de - _randvar8: c7b0b2h9c587e5U6X6M6e"
+12:17:32 "infiSTAR.de - _randvar11: q6Q6k1w1T6c5e816h513D"
+12:17:32 "infiSTAR.de - _randvar12: v6H414C0k188q2U7e018H41"
+12:17:32 "infiSTAR.de - _randvar13: i215w6w116w6T3w3w3H0Q"
+12:17:32 "infiSTAR.de - _randvar19: v814c6w7w5D1Q0j3L8w613C"
+12:17:32 "infiSTAR.de - _randvar20: y5U4U6T9j6l9j8D6l3C410Q"
+12:17:32 "infiSTAR.de - _randvar27: h2e1W1h8C1c5e3D8b1l8W2w"
+12:17:32 "infiSTAR.de - _randvar26: d0k7T4l7w3D718D2H0W3U3q"
+12:17:32 "infiSTAR.de - _randvar25: a712c7U985c7c3e5T8M4c6b"
+12:17:32 "infiSTAR.de - _randvar31: i6L5c3U7w5e612U1l8k4M513U"
+12:17:32 "infiSTAR.de - _randvar32: c1D9X0b8c3Q5T7D6e8U2w21"
+12:17:32 "infiSTAR.de - _randvar33: j619L5M1q2w7q4w1e8C"
+12:17:32 "infiSTAR.de - _randvar34: o8l116d611h9W1D4e0k6e3X58"
+12:17:32 "infiSTAR.de - _randvar35: x9c5b3L2j1L2j2Q984X"
+12:17:32 "infiSTAR.de - _randvar36: y7C5c819l2U5e9c0Q4L"
+12:17:32 "infiSTAR.de - _randvar327537: v3w8j510c8X4W884l7H3l48"
+12:17:32 "infiSTAR.de - _randvar38: o6T3q1l9L2Q2Q2k0U9c2X"
+12:17:32 "infiSTAR.de - _randvar39: q9C0U5U6H8H4C5l6C6L31"
+12:17:32 "infiSTAR.de - _clickOnMapTimer: w8e5l5D619W8X4h8X5b6U7q"
+12:17:32 "infiSTAR.de - _clickOnMapCaught: d2e8c8b5l218q1h1l5U6e"
+12:17:32 "infiSTAR.de - _fnc_handlerandvar10: o2L785C0e9T8X2d6C6w7T"
+12:17:32 "infiSTAR.de - _remark: z5Q3T5w7e811h667W716T"
+12:17:32 "infiSTAR.de - _AHpos: a6k5k9w8e5D1j2X7q0w"
+12:17:32 "infiSTAR.de - _loadedcheckpos: u7H9W5k9b7l5W0X2k1Q1l8X"
+12:17:32 "infiSTAR.de - _loadedchecktime: i7U7U3U1141914Q3e6q6Q0c"
+12:17:32 "infiSTAR.de - _MenuChecksRunningx: f061c3h5h3w1L8d0h6b2L"
+12:17:32 "infiSTAR.de - _oneachframe: x7q6W3w8h6w719w5e5D5w2X1c"
+12:17:32 "infiSTAR.de - _anotherloop: l1l9w5d8D4j7w6c0X6c3k2d"
+12:17:32 "infiSTAR.de - _clientoncetwo: d9d8H7j0h6k7Q9C6q817e1U"
+12:17:32 "infiSTAR.de - _lastUnlock: w3e485b2U7U3c3U115U818d"
+12:17:32 "infiSTAR.de - _AdminReqCheck: p0e315e9U3W6M5e619X1D3j8X"
+12:17:32 "infiSTAR.de - _antidupeCheckVar: v6l5j1q2e4W3U9w8Q36"
+12:17:32 "infiSTAR.de - _antidupePVCheckVar: PVAHR_0_x9D1U5q6U1W0d3Q3j1T9e"
+12:17:32 "infiSTAR.de - _antidupePVResVar: PVAHR_0_a2Q081c664X2e6M2C0Q8c9h"
+12:17:32 "infiSTAR.de - _antiantihack_rndvar: PVAHR_0_u7H2T0C8Q8c3w4b8T8q9e6h"
+12:17:32 "infiSTAR.de - _randvar327510: PVAHR_0_r0X6b0D4T488U3T7X5Q"
+12:17:32 "infiSTAR.de - AntiHack LOADED!"
+12:17:32 "infiSTAR.de - CREATING AdminMenu"
+12:17:32 "infiSTAR.de - AdminMenu LOADED!"
+12:17:32 "infiSTAR.de - ADDING PublicVariableEventHandlers"
+12:17:32 "infiSTAR.de - AntiHack FULLY LOADED"
+12:17:32 BIKE: loading version 2.5.1 ...
+12:17:32 BIKE: adding bike to safe vehicle list...
+12:17:32 "Loading Server Monitor & Server Executions!"
+12:17:32 "Loading Dedicated Executions!"
+12:17:32 "Res3tting B!S effects..."
+12:17:32 "Fully loaded Init"
+12:17:32 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+12:17:33 "HIVE: Starting"
+12:17:33 "HIVE: trying to get objects"
+12:17:33 "HIVE: found 308 objects"
+12:17:33 "HIVE: Commence Object Streaming..."
+12:17:33 "HIVE: got 4 Epoch Objects and 304 Vehicles"
+12:17:33 350z: ABSwitch - unknown animation source ABSwitch
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+12:17:33 Cannot create non-ai vehicle Land_stanek_3,
+12:17:33 Cannot create non-ai vehicle LAND_MASH,
+12:17:33 Cannot create non-ai vehicle LAND_Stan_east,
+12:17:33 Cannot create non-ai vehicle LAND_P_Stavebni_kozy,
+12:17:33 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:17:33 Cannot create non-ai vehicle LAND_Misc_palletsfoiled_heap,
+12:17:33 Cannot create non-ai vehicle LAND_P_ytong,
+12:17:33 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:17:33 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+12:17:33 Cannot create non-ai vehicle LAND_P_Ladder,
+12:17:33 Cannot create non-ai vehicle LAND_garbage_misc,
+12:17:33 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+12:17:33 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+12:17:34 "[VEHICLE CLEANUP ZONE]: selecting world to cleanup ..."
+12:17:34 350z_v: ABSwitch - unknown animation source ABSwitch
+12:17:34 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+12:17:34 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+12:17:34 350z_yellow: ABSwitch - unknown animation source ABSwitch
+12:17:34 350z_city: ABSwitch - unknown animation source ABSwitch
+12:17:34 350z_gold: ABSwitch - unknown animation source ABSwitch
+12:17:34 350z_black: ABSwitch - unknown animation source ABSwitch
+12:17:35 350z_white: ABSwitch - unknown animation source ABSwitch
+12:17:35 350z_blue: ABSwitch - unknown animation source ABSwitch
+12:17:35 350z_green: ABSwitch - unknown animation source ABSwitch
+12:17:35 350z_pink: ABSwitch - unknown animation source ABSwitch
+12:17:35 350z_silver: ABSwitch - unknown animation source ABSwitch
+12:17:36 "HIVE: Vehicle Spawn limit reached!"
+12:17:36 "HIVE: Spawning # of Debris: 0"
+12:17:36 "HIVE: Spawning # of Ammo Boxes: 0"
+12:17:36 "HIVE: Spawning # of Veins: 1"
+12:17:36 "Total Number of spawn locations 5"
+12:17:37 "EPOCH EVENTS INIT"
+12:17:37 Warning Message: Script z\addons\dayz_server\WAI\customsettings.sqf not found
+12:17:37 "WAI: AI Config File Loaded"
+12:17:37 "WAI: AI Monitor Started"
+12:17:37 "WAI: Initialising missions"
+12:17:47 "infiSTAR.de - Player-Log: HighFlyer(76561198302675871) - 0h 00min | ******ADMIN******"
+12:18:05 "infiSTAR.de PlayerConnected: ["76561198302675871","HighFlyer"]"
+12:18:05 "infiSTAR.de PlayerConnected: ["","__SERVER__"]"
+12:18:13 Server: Object 3:6 not found (message 94)
+12:18:14 "TIME SYNC: Local Time set to [2013,8,3,13,18]"
+12:18:14 "infiSTAR.de fnc_AdminFirstReq: [1234,B 1-1-B:1 (HighFlyer) REMOTE,"76561198302675871"]"
+12:18:14 "infiSTAR.de ******ADMIN-LOGIN******: HighFlyer(76561198302675871)"
+12:18:14 "infiSTAR.de fnc_AdminReqProceed: [1234,B 1-1-B:1 (HighFlyer) REMOTE,"76561198302675871"]"
+12:18:16 "infiSTAR.de Log: HighFlyer(76561198302675871) -    Left SafeZone @086029"
+12:18:28 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
+12:19:26 "WAI: [Mission:[Bandit] Patrol]: Starting... [3426.98,4016.26,0]"
+12:19:26 No owner
+12:19:26 No owner
+12:19:26 No owner
+12:19:26 "WAI: Spawned a group of 3 AI (Hero) at [3426.98,4016.26,0.1]"
+12:19:26 "WAI: R 1-1-A:1 assigned as driver"
+12:19:26 "WAI: R 1-1-A:2 assigned as gunner"
+12:19:26 "WAI: R 1-1-A:3 assigned as cargo"
+12:19:26 "WAI: Driver is inside vehicle, continue.."
+12:21:25 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+12:21:47 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   HighFlyer G_o_d ON"
+12:21:49 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   HighFlyer TP infront of you ON"
+12:21:54 "infiSTAR.de fnc_AdminFirstReq: [1,B 1-1-B:1 (HighFlyer) REMOTE,B 1-1-B:1 (HighFlyer) REMOTE,[14135,2813.29,0]]"
+12:21:54 "infiSTAR.de fnc_AdminReqProceed: [1,B 1-1-B:1 (HighFlyer) REMOTE,B 1-1-B:1 (HighFlyer) REMOTE,[14135,2813.29,0]]"
+12:21:54 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   Admin HighFlyer(76561198302675871) teleported to   GPS: 141125   WorldSpace: [14135,2813.29,0]"
+12:22:03 "infiSTAR.de fnc_AdminFirstReq: [9006,B 1-1-B:1 (HighFlyer) REMOTE]"
+12:22:03 "infiSTAR.de fnc_AdminReqProceed: [9006,B 1-1-B:1 (HighFlyer) REMOTE]"
+12:22:03 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   HighFlyer - LARGE SUPPLY PACKAGE @141125"
+12:22:15 "HIVE: WRITE: "CHILD:306:58652:[["engine",0.391],["sklo predni P",0.239],["sklo predni L",0.514],["karoserie",0.326],["palivo",0.259],["Pravy predni tlumic",0.475],["Pravy zadni tlumic",0.215]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58653:[["glass1",0.147],["glass2",0.405],["glass3",0.33],["glass4",0.483],["wheel_1_1_steering",0.419],["wheel_2_1_steering",0.197],["wheel_1_4_steering",0.501],["wheel_2_4_steering",0.125],["wheel_1_3_steering",0.585],["wheel_2_3_steering",0.455],["wheel_1_2_steering",0.171],["wheel_2_2_steering",0.415],["motor",0.284],["sklo predni P",0.333],["sklo predni L",0.15],["karoserie",0.373],["palivo",0.509]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58654:[["engine",0.311],["sklo predni P",0.385],["sklo predni L",0.535],["karoserie",0.25],["palivo",0.134],["Pravy predni tlumic",0.34],["Pravy zadni tlumic",0.126]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58655:[["telo",0.208]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58657:[["engine",0.568],["sklo predni P",0.293],["sklo predni L",0.334],["karoserie",0.557],["palivo",0.37],["Pravy predni tlumic",0.356],["Pravy zadni tlumic",0.269]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58658:[["motor",0.379],["karoserie",0.273],["palivo",0.101],["levy predni tlumic",0.165],["pravy predni tlumic",0.424],["levy zadni tlumic",0.145],["pravy zadni tlumic",0.391],["sklo predni L",0.501],["sklo predni P",0.522],["sklo predni P",0.522],["sklo predni L",0.501],["wheel_1_4_steering",0.3],["wheel_2_4_steering",0.424],["wheel_1_3_steering",0.387],["wheel_2_3_steering",0.376],["glass3",0.235],["glass4",0.502]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58659:[["NEtrup",0.244],["motor",0.586],["elektronika",0.541],["mala vrtule",0.569],["velka vrtule",0.587],["munice",0.167],["sklo predni P",0.416],["sklo predni L",0.395],["glass1",0.498],["glass2",0.377],["glass3",0.419],["glass4",0.278],["glass5",0.392],["glass6",0.599]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58660:[["glass1",0.295],["glass2",0.372],["glass3",0.166],["glass4",0.311],["glass5",0.348],["NEtrup",0.481],["motor",0.453],["elektronika",0.488],["mala vrtule",0.531],["velka vrtule",0.21],["munice",0.408],["sklo predni P",0.206],["sklo predni L",0.215],["glass6",0.589]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58661:[["mala vrtule",0.155],["velka vrtule",0.146],["NEtrup",0.189],["motor",0.518],["elektronika",0.109],["munice",0.205],["sklo predni P",0.321],["sklo predni L",0.196],["glass1",0.252],["glass2",0.553],["glass3",0.464],["glass4",0.376],["glass5",0.351],["glass6",0.289]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58662:[["glass1",0.395],["glass2",0.253],["glass3",0.149],["glass4",0.163],["glass5",0.216],["glass6",0.498],["NEtrup",0.159],["motor",0.209],["elektronika",0.49],["mala vrtule",0.439],["velka vrtule",0.203],["munice",0.102],["sklo predni P",0.108],["sklo predni L",0.339]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58663:[["motor",0.356],["karoserie",0.292],["palivo",0.377],["levy predni tlumic",0.486],["pravy predni tlumic",0.123],["levy zadni tlumic",0.449],["pravy zadni tlumic",0.122],["sklo predni L",0.289],["sklo predni P",0.589],["sklo predni P",0.589],["sklo predni L",0.289],["wheel_1_4_steering",0.198],["wheel_2_4_steering",0.132],["wheel_1_3_steering",0.546],["wheel_2_3_steering",0.52],["glass3",0.121],["glass4",0.221]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58664:[["NEtrup",0.431],["motor",0.321],["elektronika",0.584],["mala vrtule",0.196],["velka vrtule",0.238],["munice",0.5],["sklo predni P",0.261],["sklo predni L",0.345],["glass1",0.546],["glass2",0.228],["glass3",0.414],["glass4",0.145],["glass5",0.232],["glass6",0.19]]:0:""
+12:22:15 "HIVE: WRITE: "CHILD:306:58665:[["mala vrtule",0.377],["velka vrtule",0.242],["NEtrup",0.562],["motor",0.433],["elektronika",0.259],["munice",0.282],["sklo predni P",0.431],["sklo predni L",0.217],["glass1",0.371],["glass2",0.108],["glass3",0.167],["glass4",0.409],["glass5",0.417],["glass6",0.359]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58666:[["mala vrtule",0.491],["velka vrtule",0.414],["NEtrup",0.21],["motor",0.115],["elektronika",0.173],["munice",0.114],["sklo predni P",0.406],["sklo predni L",0.139],["glass1",0.309],["glass2",0.239],["glass3",0.517],["glass4",0.158],["glass5",0.254],["glass6",0.541]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58667:[["engine",0.256],["sklo predni P",0.521],["sklo predni L",0.477],["karoserie",0.251],["palivo",0.394],["Pravy predni tlumic",0.21],["Pravy zadni tlumic",0.442]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58668:[["glass1",0.256],["glass2",0.246],["glass3",0.107],["glass4",0.362],["glass5",0.317],["NEtrup",0.287],["motor",0.579],["elektronika",0.173],["mala vrtule",0.408],["velka vrtule",0.144],["munice",0.279],["sklo predni P",0.588],["sklo predni L",0.394],["glass6",0.33]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58669:[["NEtrup",0.532],["motor",0.164],["elektronika",0.555],["mala vrtule",0.385],["velka vrtule",0.14],["munice",0.358],["sklo predni P",0.271],["sklo predni L",0.385],["glass1",0.217],["glass2",0.181],["glass3",0.507],["glass4",0.156],["glass5",0.182],["glass6",0.215]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58670:[["glass1",0.525],["glass2",0.162],["glass3",0.255],["glass4",0.398],["glass5",0.217],["NEtrup",0.137],["motor",0.357],["elektronika",0.145],["mala vrtule",0.145],["velka vrtule",0.566],["munice",0.323],["sklo predni P",0.432],["sklo predni L",0.404],["glass6",0.197]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58672:[["wheel_1_1_steering",0.381],["wheel_1_2_steering",0.289],["wheel_2_1_steering",0.476],["wheel_2_2_steering",0.131],["palivo",0.419],["motor",0.398],["glass1",0.292],["glass2",0.224],["glass3",0.102],["glass4",0.481],["sklo predni P",0.409],["sklo predni L",0.566],["karoserie",0.175],["wheel_1_4_steering",0.337],["wheel_2_4_steering",0.235],["wheel_1_3_steering",0.315],["wheel_2_3_steering",0.458]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58673:[["glass1",0.299],["glass2",0.194],["glass3",0.153],["glass4",0.188],["wheel_1_1_steering",0.354],["wheel_1_2_steering",0.419],["wheel_2_1_steering",0.535],["wheel_2_2_steering",0.508],["motor",0.338],["sklo predni P",0.313],["sklo predni L",0.267],["karoserie",0.171],["palivo",0.529],["wheel_1_4_steering",0.347],["wheel_2_4_steering",0.138],["wheel_1_3_steering",0.109],["wheel_2_3_steering",0.255]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58674:[["glass1",0.259],["glass2",0.222],["glass3",0.245],["glass4",0.471],["wheel_1_1_steering",0.143],["wheel_1_2_steering",0.373],["wheel_2_1_steering",0.284],["wheel_2_2_steering",0.513],["motor",0.137],["sklo predni P",0.572],["sklo predni L",0.342],["karoserie",0.298],["palivo",0.419],["wheel_1_4_steering",0.201],["wheel_2_4_steering",0.558],["wheel_1_3_steering",0.479],["wheel_2_3_steering",0.53]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58675:[["wheel_1_1_steering",0.561],["wheel_1_2_steering",0.329],["wheel_2_1_steering",0.523],["wheel_2_2_steering",0.534],["palivo",0.571],["glass1",0.592],["glass2",0.482],["glass3",0.495],["glass4",0.349],["motor",0.541],["sklo predni P",0.135],["sklo predni L",0.201],["karoserie",0.485],["wheel_1_4_steering",0.56],["wheel_2_4_steering",0.349],["wheel_1_3_steering",0.218],["wheel_2_3_steering",0.211]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58676:[["NEtrup",0.345],["motor",0.155],["elektronika",0.137],["mala vrtule",0.209],["velka vrtule",0.356],["munice",0.134],["sklo predni P",0.31],["sklo predni L",0.138],["glass1",0.38],["glass2",0.166],["glass3",0.198],["glass4",0.294],["glass5",0.432],["glass6",0.441]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58677:[["glass1",0.53],["glass2",0.312],["glass3",0.555],["glass4",0.157],["wheel_1_1_steering",0.215],["wheel_1_2_steering",0.248],["wheel_2_1_steering",0.122],["wheel_2_2_steering",0.407],["motor",0.145],["sklo predni P",0.378],["sklo predni L",0.434],["karoserie",0.414],["palivo",0.166],["wheel_1_4_steering",0.483],["wheel_2_4_steering",0.541],["wheel_1_3_steering",0.469],["wheel_2_3_steering",0.408]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58678:[["glass1",0.223],["glass2",0.561],["glass3",0.213],["glass4",0.292],["wheel_1_1_steering",0.102],["wheel_1_2_steering",0.473],["wheel_2_1_steering",0.247],["wheel_2_2_steering",0.344],["motor",0.105],["sklo predni P",0.537],["sklo predni L",0.152],["karoserie",0.344],["palivo",0.271],["wheel_1_4_steering",0.591],["wheel_2_4_steering",0.462],["wheel_1_3_steering",0.448],["wheel_2_3_steering",0.394]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58679:[["motor",0.179],["karoserie",0.181],["palivo",0.55],["levy predni tlumic",0.569],["pravy predni tlumic",0.315],["levy zadni tlumic",0.424],["pravy zadni tlumic",0.393],["sklo predni L",0.409],["sklo predni P",0.184],["sklo predni P",0.184],["sklo predni L",0.409],["wheel_1_4_steering",0.318],["wheel_2_4_steering",0.167],["wheel_1_3_steering",0.226],["wheel_2_3_steering",0.561],["glass3",0.402],["glass4",0.382]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58680:[["mala vrtule",0.276],["velka vrtule",0.592],["NEtrup",0.531],["motor",0.56],["elektronika",0.313],["munice",0.103],["sklo predni P",0.448],["sklo predni L",0.29],["glass1",0.254],["glass2",0.291],["glass3",0.255],["glass4",0.423],["glass5",0.121],["glass6",0.232]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58681:[["wheel_1_1_steering",0.315],["wheel_1_2_steering",0.225],["wheel_2_1_steering",0.161],["wheel_2_2_steering",0.177],["palivo",0.458],["motor",0.411],["glass1",0.119],["glass2",0.542],["glass3",0.193],["glass4",0.583],["sklo predni P",0.549],["sklo predni L",0.285],["karoserie",0.391],["wheel_1_4_steering",0.402],["wheel_2_4_steering",0.492],["wheel_1_3_steering",0.369],["wheel_2_3_steering",0.242]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58682:[["motor",0.543],["karoserie",0.309],["palivo",0.412],["levy predni tlumic",0.231],["pravy predni tlumic",0.409],["levy zadni tlumic",0.27],["pravy zadni tlumic",0.507],["sklo predni L",0.329],["sklo predni P",0.266],["sklo predni P",0.266],["sklo predni L",0.329],["wheel_1_4_steering",0.567],["wheel_2_4_steering",0.195],["wheel_1_3_steering",0.479],["wheel_2_3_steering",0.13],["glass3",0.248],["glass4",0.39]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58683:[["glass1",0.421],["glass2",0.429],["glass3",0.121],["glass4",0.241],["glass5",0.327],["NEtrup",0.419],["motor",0.435],["elektronika",0.514],["mala vrtule",0.316],["velka vrtule",0.171],["munice",0.333],["sklo predni P",0.445],["sklo predni L",0.132],["glass6",0.442]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58684:[["motor",0.492],["karoserie",0.354],["palivo",0.258],["levy predni tlumic",0.198],["pravy predni tlumic",0.11],["levy zadni tlumic",0.211],["pravy zadni tlumic",0.113],["sklo predni L",0.227],["sklo predni P",0.149],["sklo predni P",0.149],["sklo predni L",0.227],["wheel_1_4_steering",0.539],["wheel_2_4_steering",0.271],["wheel_1_3_steering",0.297],["wheel_2_3_steering",0.573],["glass3",0.463],["glass4",0.47]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58685:[["wheel_1_1_steering",0.186],["wheel_1_2_steering",0.534],["wheel_2_1_steering",0.108],["wheel_2_2_steering",0.225],["palivo",0.325],["motor",0.324],["glass1",0.418],["glass2",0.157],["glass3",0.145],["glass4",0.412],["sklo predni P",0.597],["sklo predni L",0.279],["karoserie",0.176],["wheel_1_4_steering",0.138],["wheel_2_4_steering",0.321],["wheel_1_3_steering",0.481],["wheel_2_3_steering",0.132]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58686:[["motor",0.367],["sklo predni P",0.531],["sklo predni L",0.169],["karoserie",0.569],["palivo",0.313],["wheel_1_1_steering",0.403],["wheel_2_1_steering",0.219],["wheel_1_4_steering",0.394],["wheel_2_4_steering",0.304],["wheel_1_3_steering",0.329],["wheel_2_3_steering",0.123],["wheel_1_2_steering",0.515],["wheel_2_2_steering",0.26],["glass1",0.175],["glass2",0.594],["glass3",0.529],["glass4",0.447]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58687:[["wheel_1_1_steering",0.263],["wheel_1_2_steering",0.191],["wheel_2_1_steering",0.327],["wheel_2_2_steering",0.326],["palivo",0.306],["motor",0.235],["glass1",0.403],["glass2",0.376],["glass3",0.226],["glass4",0.464],["sklo predni P",0.352],["sklo predni L",0.107],["karoserie",0.27],["wheel_1_4_steering",0.579],["wheel_2_4_steering",0.476],["wheel_1_3_steering",0.418],["wheel_2_3_steering",0.421]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58688:[["motor",0.116],["sklo predni P",0.352],["sklo predni L",0.45],["karoserie",0.239],["palivo",0.338],["wheel_1_1_steering",0.186],["wheel_2_1_steering",0.572],["wheel_1_4_steering",0.54],["wheel_2_4_steering",0.237],["wheel_1_3_steering",0.106],["wheel_2_3_steering",0.374],["wheel_1_2_steering",0.561],["wheel_2_2_steering",0.418],["glass1",0.598],["glass2",0.159],["glass3",0.425],["glass4",0.359]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58689:[["motor",0.588],["palivo",0.36],["wheel_1_1_steering",0.219],["wheel_1_2_steering",0.102],["wheel_2_1_steering",0.315],["wheel_2_2_steering",0.145],["sklo predni P",0.23],["sklo predni L",0.357],["karoserie",0.165],["wheel_1_4_steering",0.402],["wheel_2_4_steering",0.117],["wheel_1_3_steering",0.385],["wheel_2_3_steering",0.398],["glass1",0.409],["glass2",0.524],["glass3",0.266],["glass4",0.207]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58690:[["motor",0.236],["sklo predni P",0.325],["sklo predni L",0.205],["karoserie",0.231],["palivo",0.507],["wheel_1_1_steering",0.174],["wheel_2_1_steering",0.566],["wheel_1_4_steering",0.315],["wheel_2_4_steering",0.516],["wheel_1_3_steering",0.468],["wheel_2_3_steering",0.125],["wheel_1_2_steering",0.311],["wheel_2_2_steering",0.295],["glass1",0.361],["glass2",0.442],["glass3",0.146],["glass4",0.162]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58691:[["wheel_1_1_steering",0.126],["wheel_1_2_steering",0.429],["wheel_2_1_steering",0.337],["wheel_2_2_steering",0.191],["palivo",0.496],["motor",0.271],["glass1",0.148],["glass2",0.419],["glass3",0.309],["glass4",0.577],["sklo predni P",0.113],["sklo predni L",0.504],["karoserie",0.165],["wheel_1_4_steering",0.393],["wheel_2_4_steering",0.556],["wheel_1_3_steering",0.21],["wheel_2_3_steering",0.349]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58692:[["glass1",0.406],["glass2",0.526],["glass3",0.116],["glass4",0.301],["wheel_1_1_steering",0.591142],["wheel_2_1_steering",0.505666],["wheel_1_4_steering",0.235],["wheel_2_4_steering",0.189],["wheel_1_3_steering",0.813578],["wheel_2_3_steering",1],["wheel_1_2_steering",0.670616],["wheel_2_2_steering",0.538826],["motor",0.251],["sklo predni P",0.36],["sklo predni L",0.5],["karoserie",0.177],["palivo",0.215]]:0.125857:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58693:[["glass1",0.382],["glass2",0.293],["glass3",0.193],["glass4",0.124],["wheel_1_1_steering",0.573],["wheel_2_1_steering",0.267],["wheel_1_4_steering",0.239],["wheel_2_4_steering",0.291],["wheel_1_3_steering",0.598],["wheel_2_3_steering",0.586],["wheel_1_2_steering",0.302],["wheel_2_2_steering",0.152],["motor",0.322],["sklo predni P",0.272],["sklo predni L",0.504],["karoserie",0.464],["palivo",0.224]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58694:[["motor",0.53],["sklo predni P",0.464],["sklo predni L",0.3],["karoserie",0.369],["palivo",0.231],["wheel_1_1_steering",0.154],["wheel_2_1_steering",0.227],["wheel_1_4_steering",0.107],["wheel_2_4_steering",0.575],["wheel_1_3_steering",0.391],["wheel_2_3_steering",0.418],["wheel_1_2_steering",0.243],["wheel_2_2_steering",0.512],["glass1",0.537],["glass2",0.525],["glass3",0.207],["glass4",0.529]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58695:[["telo",0.451]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58696:[["glass1",0.236],["glass2",0.56],["glass3",0.249],["glass4",0.529],["glass5",0.221],["NEtrup",0.543],["motor",0.514],["elektronika",0.208],["mala vrtule",0.314],["velka vrtule",0.254],["munice",0.517],["sklo predni P",0.43],["sklo predni L",0.293],["glass6",0.276]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58697:[["wheel_1_1_steering",0.468],["wheel_1_2_steering",0.182],["wheel_2_1_steering",0.572],["wheel_2_2_steering",0.18],["palivo",0.561],["motor",0.51],["glass1",0.212],["glass2",0.434],["glass3",0.394],["glass4",0.185],["sklo predni P",0.517],["sklo predni L",0.485],["karoserie",0.124],["wheel_1_4_steering",0.446],["wheel_2_4_steering",0.368],["wheel_1_3_steering",0.352],["wheel_2_3_steering",0.512]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58698:[["wheel_1_1_steering",0.474],["wheel_2_1_steering",0.434],["wheel_1_4_steering",0.412],["wheel_2_4_steering",0.235],["wheel_1_3_steering",0.376],["wheel_2_3_steering",0.561],["wheel_1_2_steering",0.103],["wheel_2_2_steering",0.347],["motor",0.26],["sklo predni P",0.142],["sklo predni L",0.309],["karoserie",0.165],["palivo",0.245],["glass1",0.428],["glass2",0.211],["glass3",0.403],["glass4",0.519]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58699:[["motor",0.326],["sklo predni P",0.469],["sklo predni L",0.367],["karoserie",0.379],["palivo",0.284],["wheel_1_1_steering",0.401],["wheel_2_1_steering",0.21],["wheel_1_4_steering",0.516],["wheel_2_4_steering",0.244],["wheel_1_3_steering",0.482],["wheel_2_3_steering",0.331],["wheel_1_2_steering",0.198],["wheel_2_2_steering",0.572],["glass1",0.171],["glass2",0.235],["glass3",0.517],["glass4",0.44]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58700:[["glass1",0.448],["glass2",0.551],["glass3",0.185],["motor",0.253],["palivo",0.211],["wheel_1_1_steering",0.433],["wheel_1_2_steering",0.308],["wheel_2_1_steering",0.572],["wheel_2_2_steering",0.22],["sklo predni P",0.165],["sklo predni L",0.428],["karoserie",0.47],["wheel_1_4_steering",0.273],["wheel_2_4_steering",0.467],["wheel_1_3_steering",0.347],["wheel_2_3_steering",0.598],["glass4",0.18]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58701:[["motor",0.518],["sklo predni P",0.313],["sklo predni L",0.357],["karoserie",0.109],["palivo",0.565],["wheel_1_1_steering",0.169],["wheel_2_1_steering",0.113],["wheel_1_4_steering",0.168],["wheel_2_4_steering",0.443],["wheel_1_3_steering",0.299],["wheel_2_3_steering",0.55],["wheel_1_2_steering",0.407],["wheel_2_2_steering",0.111],["glass1",0.206],["glass2",0.522],["glass3",0.288],["glass4",0.246]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58702:[["motor",0.446],["karoserie",0.334],["palivo",0.513],["levy predni tlumic",0.528],["pravy predni tlumic",0.143],["levy zadni tlumic",0.187],["pravy zadni tlumic",0.417],["sklo predni L",0.488],["sklo predni P",0.435],["sklo predni P",0.435],["sklo predni L",0.488],["wheel_1_4_steering",0.53],["wheel_2_4_steering",0.322],["wheel_1_3_steering",0.276],["wheel_2_3_steering",0.348],["glass3",0.183],["glass4",0.236]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58703:[["glass1",0.308],["glass2",0.306],["glass3",0.45],["glass4",0.133],["glass5",0.463],["glass6",0.195],["NEtrup",0.304],["motor",0.247],["elektronika",0.281],["mala vrtule",0.347],["velka vrtule",0.437],["munice",0.528],["sklo predni P",0.191],["sklo predni L",0.593]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58704:[["motor",0.518],["sklo predni P",0.503],["sklo predni L",0.461],["karoserie",0.486],["palivo",0.346],["wheel_1_1_steering",0.56],["wheel_2_1_steering",0.125],["wheel_1_4_steering",0.285],["wheel_2_4_steering",0.203],["wheel_1_3_steering",0.29],["wheel_2_3_steering",0.316],["wheel_1_2_steering",0.139],["wheel_2_2_steering",0.594],["glass1",0.573],["glass2",0.433],["glass3",0.2],["glass4",0.422]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58705:[["glass1",0.135],["glass2",0.567],["glass3",0.206],["motor",0.317],["palivo",0.388],["wheel_1_1_steering",0.353],["wheel_1_2_steering",0.333],["wheel_2_1_steering",0.109],["wheel_2_2_steering",0.316],["sklo predni P",0.448],["sklo predni L",0.35],["karoserie",0.23],["wheel_1_4_steering",0.511],["wheel_2_4_steering",0.269],["wheel_1_3_steering",0.109],["wheel_2_3_steering",0.543],["glass4",0.589]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58706:[["wheel_1_1_steering",0.28],["wheel_1_2_steering",0.415],["wheel_2_1_steering",0.424],["wheel_2_2_steering",0.437],["palivo",0.516],["motor",0.165],["glass1",0.187],["glass2",0.194],["glass3",0.213],["glass4",0.44],["sklo predni P",0.573],["sklo predni L",0.382],["karoserie",0.546],["wheel_1_4_steering",0.282],["wheel_2_4_steering",0.273],["wheel_1_3_steering",0.254],["wheel_2_3_steering",0.568]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58707:[["motor",0.593],["karoserie",0.259],["palivo",0.199],["levy predni tlumic",0.204],["pravy predni tlumic",0.248],["levy zadni tlumic",0.353],["pravy zadni tlumic",0.106],["sklo predni L",0.29],["sklo predni P",0.118],["sklo predni P",0.118],["sklo predni L",0.29],["wheel_1_4_steering",0.122],["wheel_2_4_steering",0.561],["wheel_1_3_steering",0.369],["wheel_2_3_steering",0.584],["glass3",0.168],["glass4",0.265]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58708:[["motor",0.43],["sklo predni P",0.578],["sklo predni L",0.277],["karoserie",0.512],["palivo",0.593],["wheel_1_1_steering",0.267],["wheel_2_1_steering",0.195],["wheel_1_4_steering",0.167],["wheel_2_4_steering",0.396],["wheel_1_3_steering",0.444],["wheel_2_3_steering",0.101],["wheel_1_2_steering",0.492],["wheel_2_2_steering",0.241],["glass1",0.25],["glass2",0.222],["glass3",0.554],["glass4",0.16]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58709:[["motor",0.35],["palivo",0.124],["wheel_1_1_steering",0.343],["wheel_1_2_steering",0.403],["wheel_2_1_steering",0.332],["wheel_2_2_steering",0.548],["sklo predni P",0.119],["sklo predni L",0.421],["karoserie",0.561],["wheel_1_4_steering",0.232],["wheel_2_4_steering",0.148],["wheel_1_3_steering",0.478],["wheel_2_3_steering",0.391],["glass1",0.374],["glass2",0.48],["glass3",0.325],["glass4",0.532]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58710:[["glass1",0.315],["glass2",0.242],["glass3",0.202],["glass4",0.379],["wheel_1_1_steering",0.147],["wheel_1_2_steering",0.315],["wheel_2_1_steering",0.475],["wheel_2_2_steering",0.347],["motor",0.53],["sklo predni P",0.493],["sklo predni L",0.398],["karoserie",0.583],["palivo",0.461],["wheel_1_4_steering",0.413],["wheel_2_4_steering",0.155],["wheel_1_3_steering",0.537],["wheel_2_3_steering",0.374]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58711:[["motor",0.199],["karoserie",0.224],["palivo",0.287],["levy predni tlumic",0.405],["pravy predni tlumic",0.233],["levy zadni tlumic",0.375],["pravy zadni tlumic",0.196],["sklo predni L",0.542],["sklo predni P",0.305],["sklo predni P",0.305],["sklo predni L",0.542],["wheel_1_4_steering",0.142],["wheel_2_4_steering",0.382],["wheel_1_3_steering",0.413],["wheel_2_3_steering",0.308],["glass3",0.195],["glass4",0.14]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58713:[["motor",0.345],["karoserie",0.427],["palivo",0.225],["levy predni tlumic",0.153],["pravy predni tlumic",0.547],["levy zadni tlumic",0.524],["pravy zadni tlumic",0.184],["sklo predni L",0.421],["sklo predni P",0.409],["sklo predni P",0.409],["sklo predni L",0.421],["wheel_1_4_steering",0.198],["wheel_2_4_steering",0.125],["wheel_1_3_steering",0.261],["wheel_2_3_steering",0.17],["glass3",0.244],["glass4",0.477]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58714:[["motor",0.136],["karoserie",0.525],["palivo",0.114],["levy predni tlumic",0.182],["pravy predni tlumic",0.365],["levy zadni tlumic",0.484],["pravy zadni tlumic",0.113],["sklo predni L",0.453],["sklo predni P",0.567],["sklo predni P",0.567],["sklo predni L",0.453],["wheel_1_4_steering",0.402],["wheel_2_4_steering",0.275],["wheel_1_3_steering",0.264],["wheel_2_3_steering",0.174],["glass3",0.491],["glass4",0.144]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58715:[["wheel_1_1_steering",0.242],["wheel_1_2_steering",0.494],["wheel_2_1_steering",0.478],["wheel_2_2_steering",0.123],["palivo",0.124],["motor",0.178],["glass1",0.477],["glass2",0.194],["glass3",0.413],["glass4",0.563],["sklo predni P",0.476],["sklo predni L",0.535],["karoserie",0.213],["wheel_1_4_steering",0.502],["wheel_2_4_steering",0.374],["wheel_1_3_steering",0.522],["wheel_2_3_steering",0.574]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58716:[["glass1",0.317],["glass2",0.563],["glass3",0.119],["glass4",0.325],["wheel_1_1_steering",0.182],["wheel_1_2_steering",0.55],["wheel_2_1_steering",0.578],["wheel_2_2_steering",0.356],["motor",0.597],["sklo predni P",0.492],["sklo predni L",0.373],["karoserie",0.511],["palivo",0.398],["wheel_1_4_steering",0.346],["wheel_2_4_steering",0.325],["wheel_1_3_steering",0.396],["wheel_2_3_steering",0.154]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58717:[["motor",0.29],["sklo predni P",0.494],["sklo predni L",0.133],["karoserie",0.578],["palivo",0.469],["wheel_1_1_steering",0.231],["wheel_2_1_steering",0.414],["wheel_1_4_steering",0.512],["wheel_2_4_steering",0.353],["wheel_1_3_steering",0.285],["wheel_2_3_steering",0.259],["wheel_1_2_steering",0.591],["wheel_2_2_steering",0.546],["glass1",0.288],["glass2",0.585],["glass3",0.278],["glass4",0.403]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58718:[["motor",0.19],["sklo predni P",0.28],["sklo predni L",0.359],["karoserie",0.525],["palivo",0.41],["wheel_1_1_steering",0.51],["wheel_2_1_steering",0.124],["wheel_1_4_steering",0.445],["wheel_2_4_steering",0.255],["wheel_1_3_steering",0.346],["wheel_2_3_steering",0.489],["wheel_1_2_steering",0.457],["wheel_2_2_steering",0.156],["glass1",0.557],["glass2",0.549],["glass3",0.298],["glass4",0.244]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58719:[["motor",0.438],["karoserie",0.574],["palivo",0.206],["levy predni tlumic",0.13],["pravy predni tlumic",0.118],["levy zadni tlumic",0.508],["pravy zadni tlumic",0.118],["sklo predni L",0.478],["sklo predni P",0.118],["sklo predni P",0.118],["sklo predni L",0.478],["wheel_1_4_steering",0.178],["wheel_2_4_steering",0.471],["wheel_1_3_steering",0.255],["wheel_2_3_steering",0.254],["glass3",0.537],["glass4",0.321]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58720:[["wheel_1_1_steering",0.542],["wheel_1_2_steering",0.334],["wheel_2_1_steering",0.256],["wheel_2_2_steering",0.384],["palivo",0.479],["motor",0.505],["glass1",0.343],["glass2",0.473],["glass3",0.596],["glass4",0.52],["sklo predni P",0.394],["sklo predni L",0.169],["karoserie",0.5],["wheel_1_4_steering",0.11],["wheel_2_4_steering",0.104],["wheel_1_3_steering",0.337],["wheel_2_3_steering",0.487]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58721:[["motor",0.367],["karoserie",0.172],["palivo",0.394],["levy predni tlumic",0.564],["pravy predni tlumic",0.465],["levy zadni tlumic",0.267],["pravy zadni tlumic",0.462],["sklo predni L",0.523],["sklo predni P",0.186],["sklo predni P",0.186],["sklo predni L",0.523],["wheel_1_4_steering",0.343],["wheel_2_4_steering",0.157],["wheel_1_3_steering",0.293],["wheel_2_3_steering",0.188],["glass3",0.378],["glass4",0.146]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58722:[["wheel_1_1_steering",0.245],["wheel_1_2_steering",0.296],["wheel_2_1_steering",0.101],["wheel_2_2_steering",0.28],["palivo",0.593],["motor",0.376],["glass1",0.372],["glass2",0.293],["glass3",0.275],["glass4",0.101],["sklo predni P",0.493],["sklo predni L",0.399],["karoserie",0.279],["wheel_1_4_steering",0.421],["wheel_2_4_steering",0.4],["wheel_1_3_steering",0.506],["wheel_2_3_steering",0.55]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58723:[["motor",0.507],["karoserie",0.428],["palivo",0.349],["levy predni tlumic",0.102],["pravy predni tlumic",0.183],["levy zadni tlumic",0.324],["pravy zadni tlumic",0.514],["sklo predni L",0.47],["sklo predni P",0.184],["sklo predni P",0.184],["sklo predni L",0.47],["wheel_1_4_steering",0.401],["wheel_2_4_steering",0.158],["wheel_1_3_steering",0.319],["wheel_2_3_steering",0.217],["glass3",0.399],["glass4",0.314]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58724:[["wheel_1_1_steering",0.103],["wheel_1_2_steering",0.431],["wheel_2_1_steering",0.344],["wheel_2_2_steering",0.149],["palivo",0.399],["motor",0.528],["glass1",0.427],["glass2",0.262],["glass3",0.398],["glass4",0.306],["sklo predni P",0.325],["sklo predni L",0.235],["karoserie",0.47],["wheel_1_4_steering",0.414],["wheel_2_4_steering",0.431],["wheel_1_3_steering",0.141],["wheel_2_3_steering",0.246]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58725:[["glass1",0.338],["glass2",0.504],["glass3",0.222],["glass4",0.226],["wheel_1_1_steering",0.163],["wheel_2_1_steering",0.253],["wheel_1_4_steering",0.295],["wheel_2_4_steering",0.431],["wheel_1_3_steering",0.183],["wheel_2_3_steering",0.534],["wheel_1_2_steering",0.267],["wheel_2_2_steering",0.397],["motor",0.513],["sklo predni P",0.308],["sklo predni L",0.251],["karoserie",0.177],["palivo",0.309]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58726:[["motor",0.327],["karoserie",0.541],["palivo",0.385],["levy predni tlumic",0.476],["pravy predni tlumic",0.228],["levy zadni tlumic",0.284],["pravy zadni tlumic",0.147],["sklo predni L",0.263],["sklo predni P",0.51],["sklo predni P",0.51],["sklo predni L",0.263],["wheel_1_4_steering",0.363],["wheel_2_4_steering",0.502],["wheel_1_3_steering",0.544],["wheel_2_3_steering",0.48],["glass3",0.173],["glass4",0.295]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58727:[["motor",0.528],["sklo predni P",0.376],["sklo predni L",0.424],["karoserie",0.566],["palivo",0.135],["wheel_1_1_steering",0.421],["wheel_2_1_steering",0.567],["wheel_1_4_steering",0.266],["wheel_2_4_steering",0.159],["wheel_1_3_steering",0.303],["wheel_2_3_steering",0.168],["wheel_1_2_steering",0.391],["wheel_2_2_steering",0.573],["glass1",0.153],["glass2",0.314],["glass3",0.308],["glass4",0.115]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58728:[["engine",0.491],["sklo predni P",0.205],["sklo predni L",0.199],["karoserie",0.448],["palivo",0.405],["Pravy predni tlumic",0.299],["Pravy zadni tlumic",0.154]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58729:[["wheel_1_1_steering",0.519],["wheel_1_2_steering",0.547],["wheel_2_1_steering",0.29],["wheel_2_2_steering",0.3],["palivo",0.594],["motor",0.226],["glass1",0.269],["glass2",0.341],["glass3",0.235],["glass4",0.191],["sklo predni P",0.22],["sklo predni L",0.269],["karoserie",0.279],["wheel_1_4_steering",0.427],["wheel_2_4_steering",0.152],["wheel_1_3_steering",0.362],["wheel_2_3_steering",0.478]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58730:[["motor",0.224],["karoserie",0.306],["palivo",0.115],["levy predni tlumic",0.363],["pravy predni tlumic",0.372],["levy zadni tlumic",0.456],["pravy zadni tlumic",0.234],["sklo predni L",0.425],["sklo predni P",0.495],["sklo predni P",0.495],["sklo predni L",0.425],["wheel_1_4_steering",0.122],["wheel_2_4_steering",0.353],["wheel_1_3_steering",0.309],["wheel_2_3_steering",0.538],["glass3",0.382],["glass4",0.157]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58731:[["glass5",0.502],["glass6",0.461],["motor",0.269],["sklo predni P",0.454],["sklo predni L",0.17],["karoserie",0.517],["palivo",0.43],["wheel_1_1_steering",0.297],["wheel_2_1_steering",0.429],["wheel_1_4_steering",0.54],["wheel_2_4_steering",0.422],["wheel_1_3_steering",0.47],["wheel_2_3_steering",0.268],["wheel_1_2_steering",0.359],["wheel_2_2_steering",0.6],["glass1",0.53],["glass2",0.147],["glass3",0.191],["glass4",0.322]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58732:[["wheel_1_1_steering",0.291],["wheel_1_2_steering",0.368],["wheel_2_1_steering",0.133],["wheel_2_2_steering",0.259],["palivo",0.391],["motor",0.197],["glass1",0.4],["glass2",0.271],["glass3",0.335],["glass4",0.235],["sklo predni P",0.563],["sklo predni L",0.442],["karoserie",0.385],["wheel_1_4_steering",0.209],["wheel_2_4_steering",0.247],["wheel_1_3_steering",0.597],["wheel_2_3_steering",0.192]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58733:[["engine",0.441],["sklo predni P",0.394],["sklo predni L",0.143],["karoserie",0.106],["palivo",0.282],["Pravy predni tlumic",0.413],["Pravy zadni tlumic",0.4]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58734:[["motor",0.163],["karoserie",0.282],["palivo",0.491],["levy predni tlumic",0.261],["pravy predni tlumic",0.597],["levy zadni tlumic",0.525],["pravy zadni tlumic",0.191],["sklo predni L",0.336],["sklo predni P",0.52],["sklo predni P",0.52],["sklo predni L",0.336],["wheel_1_4_steering",0.169],["wheel_2_4_steering",0.594],["wheel_1_3_steering",0.417],["wheel_2_3_steering",0.166],["glass3",0.457],["glass4",0.189]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58735:[["glass5",0.24],["glass6",0.446],["motor",0.545],["sklo predni P",0.585],["sklo predni L",0.414],["karoserie",0.25],["palivo",0.413],["wheel_1_1_steering",0.566],["wheel_2_1_steering",0.471],["wheel_1_4_steering",0.376],["wheel_2_4_steering",0.317],["wheel_1_3_steering",0.101],["wheel_2_3_steering",0.32],["wheel_1_2_steering",0.358],["wheel_2_2_steering",0.58],["glass1",0.111],["glass2",0.357],["glass3",0.477],["glass4",0.145]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58736:[["wheel_1_1_steering",0.303],["wheel_1_2_steering",0.461],["wheel_2_1_steering",0.15],["wheel_2_2_steering",0.162],["motor",0.108],["sklo predni P",0.572],["sklo predni L",0.254],["karoserie",0.538],["palivo",0.222],["wheel_1_4_steering",0.584],["wheel_2_4_steering",0.12],["wheel_1_3_steering",0.586],["wheel_2_3_steering",0.243],["glass1",0.301],["glass2",0.457],["glass3",0.335],["glass4",0.482]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58737:[["NEtrup",0.423],["motor",0.498],["elektronika",0.413],["mala vrtule",0.399],["velka vrtule",0.235],["munice",0.466],["sklo predni P",0.507],["sklo predni L",0.346],["glass1",0.337],["glass2",0.152],["glass3",0.101],["glass4",0.586],["glass5",0.102],["glass6",0.351]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58738:[["wheel_1_1_steering",0.187],["wheel_1_2_steering",0.324],["wheel_2_1_steering",0.137],["wheel_2_2_steering",0.512],["palivo",0.182],["motor",0.395],["glass1",0.253],["glass2",0.477],["glass3",0.515],["glass4",0.401],["sklo predni P",0.219],["sklo predni L",0.134],["karoserie",0.138],["wheel_1_4_steering",0.429],["wheel_2_4_steering",0.119],["wheel_1_3_steering",0.341],["wheel_2_3_steering",0.377]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58739:[["motor",0.574],["sklo predni P",0.432],["sklo predni L",0.348],["karoserie",0.431],["palivo",0.502],["wheel_1_1_steering",0.53],["wheel_2_1_steering",0.332],["wheel_1_4_steering",0.45],["wheel_2_4_steering",0.297],["wheel_1_3_steering",0.309],["wheel_2_3_steering",0.506],["wheel_1_2_steering",0.481],["wheel_2_2_steering",0.531],["glass1",0.593],["glass2",0.2],["glass3",0.32],["glass4",0.51]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58740:[["motor",0.504],["sklo predni P",0.23],["sklo predni L",0.124],["karoserie",0.266],["palivo",0.102],["wheel_1_1_steering",0.542],["wheel_2_1_steering",0.226],["wheel_1_4_steering",0.308],["wheel_2_4_steering",0.431],["wheel_1_3_steering",0.586],["wheel_2_3_steering",0.561],["wheel_1_2_steering",0.328],["wheel_2_2_steering",0.418],["glass1",0.442],["glass2",0.194],["glass3",0.377],["glass4",0.248]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58741:[["motor",0.533],["sklo predni P",0.204],["sklo predni L",0.396],["karoserie",0.511],["palivo",0.121],["wheel_1_1_steering",0.105],["wheel_2_1_steering",0.36],["wheel_1_4_steering",0.227],["wheel_2_4_steering",0.443],["wheel_1_3_steering",0.165],["wheel_2_3_steering",0.313],["wheel_1_2_steering",0.45],["wheel_2_2_steering",0.164],["glass1",0.355],["glass2",0.288],["glass3",0.537],["glass4",0.547]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58742:[["motor",0.433],["sklo predni P",0.131],["sklo predni L",0.413],["karoserie",0.167],["palivo",0.339],["wheel_1_1_steering",0.186],["wheel_2_1_steering",0.32],["wheel_1_4_steering",0.241],["wheel_2_4_steering",0.186],["wheel_1_3_steering",0.543],["wheel_2_3_steering",0.277],["wheel_1_2_steering",0.5],["wheel_2_2_steering",0.231],["glass1",0.176],["glass2",0.478],["glass3",0.262],["glass4",0.302]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58743:[["glass1",0.264],["glass2",0.338],["glass3",0.351],["glass4",0.571],["telo",0.567]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58744:[["motor",0.56],["sklo predni P",0.317],["sklo predni L",0.364],["karoserie",0.274],["palivo",0.17],["wheel_1_1_steering",0.595],["wheel_2_1_steering",0.541],["wheel_1_4_steering",0.352],["wheel_2_4_steering",0.321],["wheel_1_3_steering",0.32],["wheel_2_3_steering",0.5],["wheel_1_2_steering",0.187],["wheel_2_2_steering",0.437],["glass1",0.364],["glass2",0.373],["glass3",0.568],["glass4",0.333]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58745:[["motor",0.296],["karoserie",0.223],["palivo",0.286],["levy predni tlumic",0.211],["pravy predni tlumic",0.52],["levy zadni tlumic",0.22],["pravy zadni tlumic",0.174],["sklo predni L",0.263],["sklo predni P",0.578],["sklo predni P",0.578],["sklo predni L",0.263],["wheel_1_4_steering",0.586],["wheel_2_4_steering",0.179],["wheel_1_3_steering",0.26],["wheel_2_3_steering",0.366],["glass3",0.316],["glass4",0.412]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58746:[["wheel_1_1_steering",0.294],["wheel_1_2_steering",0.482],["wheel_2_1_steering",0.319],["wheel_2_2_steering",0.374],["palivo",0.164],["motor",0.518],["glass1",0.33],["glass2",0.207],["glass3",0.491],["glass4",0.377],["sklo predni P",0.137],["sklo predni L",0.241],["karoserie",0.581],["wheel_1_4_steering",0.168],["wheel_2_4_steering",0.443],["wheel_1_3_steering",0.174],["wheel_2_3_steering",0.197]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58747:[["wheel_1_1_steering",0.507],["wheel_1_2_steering",0.59],["wheel_2_1_steering",0.298],["wheel_2_2_steering",0.146],["palivo",0.382],["glass1",0.185],["glass2",0.184],["glass3",0.494],["glass4",0.555],["motor",0.153],["sklo predni P",0.57],["sklo predni L",0.548],["karoserie",0.21],["wheel_1_4_steering",0.424],["wheel_2_4_steering",0.114],["wheel_1_3_steering",0.287],["wheel_2_3_steering",0.14]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58748:[["motor",0.485],["sklo predni P",0.211],["sklo predni L",0.528],["karoserie",0.32],["palivo",0.495],["wheel_1_1_steering",0.489],["wheel_2_1_steering",0.564],["wheel_1_4_steering",0.332],["wheel_2_4_steering",0.253],["wheel_1_3_steering",0.27],["wheel_2_3_steering",0.406],["wheel_1_2_steering",0.259],["wheel_2_2_steering",0.257],["glass1",0.131],["glass2",0.102],["glass3",0.308],["glass4",0.379]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58749:[["motor",0.535],["karoserie",0.489],["palivo",0.344],["levy predni tlumic",0.427],["pravy predni tlumic",0.256],["levy zadni tlumic",0.272],["pravy zadni tlumic",0.382],["sklo predni L",0.527],["sklo predni P",0.19],["sklo predni P",0.19],["sklo predni L",0.527],["wheel_1_4_steering",0.38],["wheel_2_4_steering",0.559],["wheel_1_3_steering",0.532],["wheel_2_3_steering",0.315],["glass3",0.156],["glass4",0.188]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58750:[["motor",0.424],["sklo predni P",0.333],["sklo predni L",0.523],["karoserie",0.162],["palivo",0.331],["wheel_1_1_steering",0.247],["wheel_2_1_steering",0.45],["wheel_1_4_steering",0.419],["wheel_2_4_steering",0.255],["wheel_1_3_steering",0.352],["wheel_2_3_steering",0.556],["wheel_1_2_steering",0.298],["wheel_2_2_steering",0.544],["glass1",0.273],["glass2",0.464],["glass3",0.577],["glass4",0.349]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58751:[["glass1",0.589],["glass2",0.537],["glass3",0.494],["glass4",0.171],["wheel_1_1_steering",0.337],["wheel_2_1_steering",0.435],["wheel_1_4_steering",0.366],["wheel_2_4_steering",0.262],["wheel_1_3_steering",0.412],["wheel_2_3_steering",0.24],["wheel_1_2_steering",0.353],["wheel_2_2_steering",0.41],["motor",0.252],["sklo predni P",0.223],["sklo predni L",0.46],["karoserie",0.515],["palivo",0.548]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58752:[["glass1",0.133],["glass2",0.358],["glass3",0.527],["glass4",0.148],["wheel_1_1_steering",0.186],["wheel_2_1_steering",0.225],["wheel_1_4_steering",0.301],["wheel_2_4_steering",0.102],["wheel_1_3_steering",0.289],["wheel_2_3_steering",0.221],["wheel_1_2_steering",0.395],["wheel_2_2_steering",0.438],["motor",0.356],["sklo predni P",0.382],["sklo predni L",0.309],["karoserie",0.579],["palivo",0.163]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58754:[["glass1",0.344],["motor",0.552],["palivo",0.377],["wheel_1_1_steering",0.441],["wheel_1_2_steering",0.269],["wheel_2_1_steering",0.565],["wheel_2_2_steering",0.207],["sklo predni P",0.122],["sklo predni L",0.446],["karoserie",0.407],["wheel_1_4_steering",0.218],["wheel_2_4_steering",0.567],["wheel_1_3_steering",0.117],["wheel_2_3_steering",0.333],["glass2",0.543],["glass3",0.296],["glass4",0.519]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58755:[["glass1",0.375],["glass2",0.586],["glass3",0.511],["glass4",0.361],["wheel_1_1_steering",0.344],["wheel_1_2_steering",0.581],["wheel_2_1_steering",0.471],["wheel_2_2_steering",0.338],["motor",0.384],["sklo predni P",0.543],["sklo predni L",0.37],["karoserie",0.359],["palivo",0.565],["wheel_1_4_steering",0.418],["wheel_2_4_steering",0.445],["wheel_1_3_steering",0.307],["wheel_2_3_steering",0.243]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58756:[["motor",0.585],["karoserie",0.397],["palivo",0.121],["levy predni tlumic",0.106],["pravy predni tlumic",0.416],["levy zadni tlumic",0.59],["pravy zadni tlumic",0.397],["sklo predni L",0.313],["sklo predni P",0.519],["sklo predni P",0.519],["sklo predni L",0.313],["wheel_1_4_steering",0.432],["wheel_2_4_steering",0.562],["wheel_1_3_steering",0.14],["wheel_2_3_steering",0.142],["glass3",0.389],["glass4",0.452]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58757:[["motor",0.426],["sklo predni P",0.155],["sklo predni L",0.107],["karoserie",0.5],["palivo",0.515],["wheel_1_1_steering",0.439],["wheel_2_1_steering",0.508],["wheel_1_4_steering",0.46],["wheel_2_4_steering",0.113],["wheel_1_3_steering",0.45],["wheel_2_3_steering",0.388],["wheel_1_2_steering",0.39],["wheel_2_2_steering",0.515],["glass1",0.328],["glass2",0.213],["glass3",0.48],["glass4",0.539]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58758:[["engine",0.419],["sklo predni P",0.587],["sklo predni L",0.337],["karoserie",0.441],["palivo",0.26],["Pravy predni tlumic",0.308],["Pravy zadni tlumic",0.597]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58759:[["motor",0.436],["karoserie",0.552],["palivo",0.237],["levy predni tlumic",0.583],["pravy predni tlumic",0.341],["levy zadni tlumic",0.105],["pravy zadni tlumic",0.246],["sklo predni L",0.248],["sklo predni P",0.384],["sklo predni P",0.384],["sklo predni L",0.248],["wheel_1_4_steering",0.223],["wheel_2_4_steering",0.249],["wheel_1_3_steering",0.365],["wheel_2_3_steering",0.372],["glass3",0.178],["glass4",0.166]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58760:[["wheel_1_1_steering",0.115],["wheel_2_1_steering",0.229],["wheel_1_4_steering",0.6],["wheel_2_4_steering",0.296],["wheel_1_3_steering",0.224],["wheel_2_3_steering",0.326],["wheel_1_2_steering",0.524],["wheel_2_2_steering",0.36],["motor",0.138],["sklo predni P",0.539],["sklo predni L",0.315],["karoserie",0.159],["palivo",0.553],["glass1",0.599],["glass2",0.483],["glass3",0.556],["glass4",0.591]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58761:[["glass1",0.587],["glass2",0.341],["glass3",0.514],["glass4",0.501],["wheel_1_1_steering",0.481],["wheel_1_2_steering",0.377],["wheel_2_1_steering",0.559],["wheel_2_2_steering",0.253],["motor",0.246],["sklo predni P",0.25],["sklo predni L",0.299],["karoserie",0.225],["palivo",0.198],["wheel_1_4_steering",0.243],["wheel_2_4_steering",0.345],["wheel_1_3_steering",0.117],["wheel_2_3_steering",0.193]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58762:[["motor",0.114],["karoserie",0.452],["palivo",0.173],["levy predni tlumic",0.335],["pravy predni tlumic",0.298],["levy zadni tlumic",0.354],["pravy zadni tlumic",0.189],["sklo predni L",0.345],["sklo predni P",0.578],["sklo predni P",0.578],["sklo predni L",0.345],["wheel_1_4_steering",0.148],["wheel_2_4_steering",0.192],["wheel_1_3_steering",0.41],["wheel_2_3_steering",0.495],["glass3",0.185],["glass4",0.573]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58763:[["wheel_1_1_steering",0.147],["wheel_1_2_steering",0.407],["wheel_1_3_steering",0.209],["wheel_2_1_steering",0.291],["wheel_2_2_steering",0.553],["wheel_2_3_steering",0.402],["wheel_1_4_steering",0.17],["wheel_2_4_steering",0.498],["motor",0.283],["sklo predni P",0.58],["sklo predni L",0.553],["karoserie",0.218],["palivo",0.322],["glass1",0.588],["glass2",0.323],["glass3",0.249],["glass4",0.244]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58764:[["wheel_1_1_steering",0.239],["wheel_1_2_steering",0.235],["wheel_2_1_steering",0.427],["wheel_2_2_steering",0.268],["motor",0.233],["sklo predni P",0.269],["sklo predni L",0.55],["karoserie",0.212],["palivo",0.321],["wheel_1_4_steering",0.319],["wheel_2_4_steering",0.6],["wheel_1_3_steering",0.39],["wheel_2_3_steering",0.382],["glass1",0.313],["glass2",0.376],["glass3",0.299],["glass4",0.563]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58765:[["glass1",0.226],["glass2",0.105],["glass3",0.404],["motor",0.258],["palivo",0.439],["wheel_1_1_steering",0.122],["wheel_1_2_steering",0.47],["wheel_2_1_steering",0.412],["wheel_2_2_steering",0.341],["sklo predni P",0.508],["sklo predni L",0.178],["karoserie",0.149],["wheel_1_4_steering",0.599],["wheel_2_4_steering",0.196],["wheel_1_3_steering",0.12],["wheel_2_3_steering",0.145],["glass4",0.296]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58766:[["motor",0.357],["sklo predni P",0.531],["sklo predni L",0.253],["karoserie",0.426],["palivo",0.291],["wheel_1_1_steering",0.111],["wheel_2_1_steering",0.186],["wheel_1_4_steering",0.238],["wheel_2_4_steering",0.588],["wheel_1_3_steering",0.341],["wheel_2_3_steering",0.323],["wheel_1_2_steering",0.516],["wheel_2_2_steering",0.11],["glass1",0.123],["glass2",0.101],["glass3",0.387],["glass4",0.349]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58767:[["engine",0.527],["sklo predni P",0.108],["sklo predni L",0.525],["karoserie",0.401],["palivo",0.53],["Pravy predni tlumic",0.371],["Pravy zadni tlumic",0.303]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58768:[["glass1",0.277],["glass2",0.573],["glass3",0.387],["motor",0.379],["palivo",0.111],["wheel_1_1_steering",0.228],["wheel_1_2_steering",0.475],["wheel_2_1_steering",0.568],["wheel_2_2_steering",0.46],["sklo predni P",0.3],["sklo predni L",0.451],["karoserie",0.122],["wheel_1_4_steering",0.322],["wheel_2_4_steering",0.276],["wheel_1_3_steering",0.36],["wheel_2_3_steering",0.286],["glass4",0.458]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58769:[["motor",0.237],["sklo predni P",0.524],["sklo predni L",0.194],["karoserie",0.175],["palivo",0.467],["wheel_1_1_steering",0.282],["wheel_2_1_steering",0.205],["wheel_1_4_steering",0.261],["wheel_2_4_steering",0.342],["wheel_1_3_steering",0.447],["wheel_2_3_steering",0.181],["wheel_1_2_steering",0.455],["wheel_2_2_steering",0.308],["glass1",0.45],["glass2",0.433],["glass3",0.448],["glass4",0.494]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58770:[["wheel_1_1_steering",0.441],["wheel_1_2_steering",0.196],["wheel_2_1_steering",0.385],["wheel_2_2_steering",0.571],["palivo",0.319],["motor",0.334],["glass1",0.211],["glass2",0.153],["glass3",0.439],["glass4",0.4],["sklo predni P",0.547],["sklo predni L",0.598],["karoserie",0.233],["wheel_1_4_steering",0.562],["wheel_2_4_steering",0.126],["wheel_1_3_steering",0.412],["wheel_2_3_steering",0.287]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58771:[["motor",0.159],["karoserie",0.46],["palivo",0.426],["levy predni tlumic",0.421],["pravy predni tlumic",0.355],["levy zadni tlumic",0.232],["pravy zadni tlumic",0.419],["sklo predni L",0.236],["sklo predni P",0.495],["sklo predni P",0.495],["sklo predni L",0.236],["wheel_1_4_steering",0.142],["wheel_2_4_steering",0.569],["wheel_1_3_steering",0.277],["wheel_2_3_steering",0.259],["glass3",0.376],["glass4",0.395]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58772:[["wheel_1_1_steering",0.184],["wheel_1_2_steering",0.463],["wheel_2_1_steering",0.423],["wheel_2_2_steering",0.169],["palivo",0.34],["motor",0.362],["glass1",0.359],["glass2",0.2],["glass3",0.497],["glass4",0.25],["sklo predni P",0.441],["sklo predni L",0.118],["karoserie",0.429],["wheel_1_4_steering",0.485],["wheel_2_4_steering",0.351],["wheel_1_3_steering",0.498],["wheel_2_3_steering",0.22]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58773:[["wheel_1_1_steering",0.401],["wheel_1_2_steering",0.417],["wheel_1_3_steering",0.324],["wheel_2_1_steering",0.308],["wheel_2_2_steering",0.435],["wheel_2_3_steering",0.165],["wheel_1_4_steering",0.186],["wheel_2_4_steering",0.302],["motor",0.325],["sklo predni P",0.3],["sklo predni L",0.162],["karoserie",0.245],["palivo",0.591],["glass1",0.293],["glass2",0.206],["glass3",0.247],["glass4",0.549]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58774:[["glass1",0.403],["glass2",0.127],["glass3",0.328],["glass4",0.192],["telo",0.263]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58775:[["motor",0.365],["sklo predni P",0.564],["sklo predni L",0.362],["karoserie",0.227],["palivo",0.213],["wheel_1_1_steering",0.55],["wheel_2_1_steering",0.268],["wheel_1_4_steering",0.432],["wheel_2_4_steering",0.154],["wheel_1_3_steering",0.268],["wheel_2_3_steering",0.198],["wheel_1_2_steering",0.526],["wheel_2_2_steering",0.364],["glass1",0.188],["glass2",0.56],["glass3",0.157],["glass4",0.173]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58776:[["engine",0.349],["sklo predni P",0.148],["sklo predni L",0.347],["karoserie",0.243],["palivo",0.547],["Pravy predni tlumic",0.269],["Pravy zadni tlumic",0.52]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58777:[["motor",0.458],["sklo predni P",0.562],["sklo predni L",0.166],["karoserie",0.172],["palivo",0.166],["wheel_1_1_steering",0.506],["wheel_2_1_steering",0.42],["wheel_1_4_steering",0.2],["wheel_2_4_steering",0.494],["wheel_1_3_steering",0.175],["wheel_2_3_steering",0.151],["wheel_1_2_steering",0.343],["wheel_2_2_steering",0.424],["glass1",0.382],["glass2",0.441],["glass3",0.523],["glass4",0.528]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58778:[["motor",0.458],["sklo predni P",0.489],["sklo predni L",0.177],["karoserie",0.374],["palivo",0.345],["wheel_1_1_steering",0.449],["wheel_2_1_steering",0.509],["wheel_1_4_steering",0.304],["wheel_2_4_steering",0.334],["wheel_1_3_steering",0.511],["wheel_2_3_steering",0.433],["wheel_1_2_steering",0.112],["wheel_2_2_steering",0.506],["glass1",0.241],["glass2",0.517],["glass3",0.121],["glass4",0.338]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58779:[["motor",0.202],["karoserie",0.166],["palivo",0.148],["levy predni tlumic",0.4],["pravy predni tlumic",0.187],["levy zadni tlumic",0.196],["pravy zadni tlumic",0.349],["sklo predni L",0.564],["sklo predni P",0.165],["sklo predni P",0.165],["sklo predni L",0.564],["wheel_1_4_steering",0.291],["wheel_2_4_steering",0.16],["wheel_1_3_steering",0.303],["wheel_2_3_steering",0.218],["glass3",0.193],["glass4",0.252]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58780:[["motor",0.332],["karoserie",0.105],["palivo",0.575],["levy predni tlumic",0.395],["pravy predni tlumic",0.467],["levy zadni tlumic",0.513],["pravy zadni tlumic",0.122],["sklo predni L",0.571],["sklo predni P",0.245],["sklo predni P",0.245],["sklo predni L",0.571],["wheel_1_4_steering",0.419],["wheel_2_4_steering",0.566],["wheel_1_3_steering",0.492],["wheel_2_3_steering",0.181],["glass3",0.567],["glass4",0.286]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58781:[["motor",0.302],["karoserie",0.236],["palivo",0.429],["levy predni tlumic",0.492],["pravy predni tlumic",0.156],["levy zadni tlumic",0.541],["pravy zadni tlumic",0.272],["sklo predni L",0.109],["sklo predni P",0.116],["sklo predni P",0.116],["sklo predni L",0.109],["wheel_1_4_steering",0.24],["wheel_2_4_steering",0.114],["wheel_1_3_steering",0.27],["wheel_2_3_steering",0.231],["glass3",0.11],["glass4",0.201]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58782:[["wheel_1_1_steering",0.559],["wheel_1_2_steering",0.548],["wheel_2_1_steering",0.55],["wheel_2_2_steering",0.346],["palivo",0.478],["motor",0.496],["glass1",0.419],["glass2",0.483],["glass3",0.189],["glass4",0.519],["sklo predni P",0.26],["sklo predni L",0.261],["karoserie",0.298],["wheel_1_4_steering",0.122],["wheel_2_4_steering",0.561],["wheel_1_3_steering",0.547],["wheel_2_3_steering",0.226]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58783:[["motor",0.579],["sklo predni P",0.59],["sklo predni L",0.339],["karoserie",0.348],["palivo",0.355],["wheel_1_1_steering",0.294],["wheel_2_1_steering",0.353],["wheel_1_4_steering",0.58],["wheel_2_4_steering",0.162],["wheel_1_3_steering",0.152],["wheel_2_3_steering",0.41],["wheel_1_2_steering",0.197],["wheel_2_2_steering",0.45],["glass1",0.566],["glass2",0.368],["glass3",0.346],["glass4",0.557]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58784:[["wheel_1_1_steering",0.272],["wheel_1_2_steering",0.407],["wheel_1_3_steering",0.428],["wheel_2_1_steering",0.193],["wheel_2_2_steering",0.173],["wheel_2_3_steering",0.292],["palivo",0.446],["wheel_1_4_steering",0.333],["wheel_2_4_steering",0.497],["motor",0.248],["sklo predni P",0.193],["sklo predni L",0.165],["karoserie",0.377],["glass1",0.26],["glass2",0.204],["glass3",0.27],["glass4",0.136]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58785:[["motor",0.509],["sklo predni P",0.392],["sklo predni L",0.269],["karoserie",0.173],["palivo",0.48],["wheel_1_1_steering",0.578],["wheel_2_1_steering",0.433],["wheel_1_4_steering",0.521],["wheel_2_4_steering",0.255],["wheel_1_3_steering",0.22],["wheel_2_3_steering",0.574],["wheel_1_2_steering",0.244],["wheel_2_2_steering",0.258],["glass1",0.564],["glass2",0.385],["glass3",0.395],["glass4",0.165]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58786:[["wheel_1_1_steering",0.569],["wheel_1_2_steering",0.412],["wheel_1_3_steering",0.109],["wheel_2_1_steering",0.436],["wheel_2_2_steering",0.475],["wheel_2_3_steering",0.367],["palivo",0.11],["wheel_1_4_steering",0.555],["wheel_2_4_steering",0.532],["motor",0.541],["sklo predni P",0.557],["sklo predni L",0.497],["karoserie",0.221],["glass1",0.373],["glass2",0.133],["glass3",0.261],["glass4",0.479]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58787:[["wheel_1_1_steering",0.43],["wheel_2_1_steering",0.135],["wheel_1_4_steering",0.202],["wheel_2_4_steering",0.292],["wheel_1_3_steering",0.155],["wheel_2_3_steering",0.193],["wheel_1_2_steering",0.104],["wheel_2_2_steering",0.206],["motor",0.31],["sklo predni P",0.538],["sklo predni L",0.337],["karoserie",0.385],["palivo",0.321],["glass1",0.428],["glass2",0.525],["glass3",0.235],["glass4",0.343]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58788:[["motor",0.164],["karoserie",0.134],["palivo",0.591],["levy predni tlumic",0.245],["pravy predni tlumic",0.377],["levy zadni tlumic",0.279],["pravy zadni tlumic",0.148],["sklo predni L",0.235],["sklo predni P",0.457],["sklo predni P",0.457],["sklo predni L",0.235],["wheel_1_4_steering",0.175],["wheel_2_4_steering",0.241],["wheel_1_3_steering",0.575],["wheel_2_3_steering",0.489],["glass3",0.546],["glass4",0.483]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58789:[["wheel_1_1_steering",0.41],["wheel_1_2_steering",0.374],["wheel_2_1_steering",0.186],["wheel_2_2_steering",0.332],["motor",0.488],["sklo predni P",0.222],["sklo predni L",0.35],["karoserie",0.398],["palivo",0.383],["wheel_1_4_steering",0.208],["wheel_2_4_steering",0.395],["wheel_1_3_steering",0.309],["wheel_2_3_steering",0.553],["glass1",0.247],["glass2",0.109],["glass3",0.427],["glass4",0.371]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58790:[["motor",0.53],["sklo predni P",0.326],["sklo predni L",0.357],["karoserie",0.406],["palivo",0.137],["wheel_1_1_steering",0.177],["wheel_2_1_steering",0.573],["wheel_1_4_steering",0.327],["wheel_2_4_steering",0.376],["wheel_1_3_steering",0.41],["wheel_2_3_steering",0.315],["wheel_1_2_steering",0.136],["wheel_2_2_steering",0.566],["glass1",0.456],["glass2",0.155],["glass3",0.397],["glass4",0.31]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58791:[["motor",0.299],["sklo predni P",0.138],["sklo predni L",0.421],["karoserie",0.503],["palivo",0.217],["wheel_1_1_steering",0.492],["wheel_2_1_steering",0.393],["wheel_1_4_steering",0.6],["wheel_2_4_steering",0.233],["wheel_1_3_steering",0.425],["wheel_2_3_steering",0.267],["wheel_1_2_steering",0.332],["wheel_2_2_steering",0.154],["glass1",0.122],["glass2",0.219],["glass3",0.525],["glass4",0.338]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58792:[["wheel_1_1_steering",0.108],["wheel_2_1_steering",0.499],["wheel_1_4_steering",0.437],["wheel_2_4_steering",0.522],["wheel_1_3_steering",0.442],["wheel_2_3_steering",0.553],["wheel_1_2_steering",0.295],["wheel_2_2_steering",0.478],["motor",0.316],["sklo predni P",0.39],["sklo predni L",0.349],["karoserie",0.344],["palivo",0.542],["glass1",0.504],["glass2",0.5],["glass3",0.266],["glass4",0.503]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58793:[["motor",0.305],["karoserie",0.132],["palivo",0.285],["levy predni tlumic",0.127],["pravy predni tlumic",0.449],["levy zadni tlumic",0.106],["pravy zadni tlumic",0.359],["sklo predni L",0.355],["sklo predni P",0.17],["sklo predni P",0.17],["sklo predni L",0.355],["wheel_1_4_steering",0.484],["wheel_2_4_steering",0.54],["wheel_1_3_steering",0.173],["wheel_2_3_steering",0.236],["glass3",0.329],["glass4",0.305]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58794:[["glass1",0.431],["motor",0.139],["palivo",0.367],["wheel_1_1_steering",0.366],["wheel_1_2_steering",0.413],["wheel_2_1_steering",0.153],["wheel_2_2_steering",0.105],["sklo predni P",0.537],["sklo predni L",0.301],["karoserie",0.113],["wheel_1_4_steering",0.528],["wheel_2_4_steering",0.339],["wheel_1_3_steering",0.586],["wheel_2_3_steering",0.591],["glass2",0.594],["glass3",0.268],["glass4",0.106]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58795:[["glass1",0.103],["glass2",0.199],["glass3",0.375],["glass4",0.212],["glass5",0.306],["NEtrup",0.179],["motor",0.103],["elektronika",0.505],["mala vrtule",0.13],["velka vrtule",0.438],["munice",0.226],["sklo predni P",0.199],["sklo predni L",0.413],["glass6",0.191]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58796:[["motor",0.297],["karoserie",0.255],["palivo",0.533],["levy predni tlumic",0.552],["pravy predni tlumic",0.447],["levy zadni tlumic",0.136],["pravy zadni tlumic",0.215],["sklo predni L",0.368],["sklo predni P",0.175],["sklo predni P",0.175],["sklo predni L",0.368],["wheel_1_4_steering",0.333],["wheel_2_4_steering",0.117],["wheel_1_3_steering",0.406],["wheel_2_3_steering",0.566],["glass3",0.127],["glass4",0.4]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58797:[["motor",0.26],["karoserie",0.557],["palivo",0.319],["levy predni tlumic",0.573],["pravy predni tlumic",0.396],["levy zadni tlumic",0.48],["pravy zadni tlumic",0.453],["sklo predni L",0.283],["sklo predni P",0.37],["sklo predni P",0.37],["sklo predni L",0.283],["wheel_1_4_steering",0.186],["wheel_2_4_steering",0.522],["wheel_1_3_steering",0.492],["wheel_2_3_steering",0.279],["glass3",0.162],["glass4",0.237]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58798:[["wheel_1_1_steering",0.326],["wheel_1_2_steering",0.125],["wheel_2_1_steering",0.423],["wheel_2_2_steering",0.38],["palivo",0.305],["motor",0.41],["glass1",0.329],["glass2",0.583],["glass3",0.336],["glass4",0.406],["sklo predni P",0.512],["sklo predni L",0.119],["karoserie",0.458],["wheel_1_4_steering",0.508],["wheel_2_4_steering",0.26],["wheel_1_3_steering",0.216],["wheel_2_3_steering",0.318]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58799:[["glass1",0.415],["motor",0.185],["palivo",0.315],["wheel_1_1_steering",0.235],["wheel_1_2_steering",0.275],["wheel_2_1_steering",0.166],["wheel_2_2_steering",0.4],["sklo predni P",0.118],["sklo predni L",0.321],["karoserie",0.295],["wheel_1_4_steering",0.548],["wheel_2_4_steering",0.163],["wheel_1_3_steering",0.565],["wheel_2_3_steering",0.529],["glass2",0.545],["glass3",0.362],["glass4",0.158]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58800:[["motor",0.345],["sklo predni P",0.522],["sklo predni L",0.321],["karoserie",0.449],["palivo",0.225],["wheel_1_1_steering",0.58],["wheel_2_1_steering",0.17],["wheel_1_4_steering",0.158],["wheel_2_4_steering",0.332],["wheel_1_3_steering",0.288],["wheel_2_3_steering",0.452],["wheel_1_2_steering",0.578],["wheel_2_2_steering",0.326],["glass1",0.274],["glass2",0.249],["glass3",0.484],["glass4",0.235]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58801:[["wheel_1_1_steering",0.439],["wheel_1_2_steering",0.434],["wheel_1_3_steering",0.148],["wheel_2_1_steering",0.21],["wheel_2_2_steering",0.397],["wheel_2_3_steering",0.31],["wheel_1_4_steering",0.248],["wheel_2_4_steering",0.14],["motor",0.436],["sklo predni P",0.266],["sklo predni L",0.56],["karoserie",0.132],["palivo",0.497],["glass1",0.431],["glass2",0.545],["glass3",0.432],["glass4",0.178]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58802:[["glass1",0.597],["glass2",0.311],["glass3",0.425],["glass4",0.242],["glass5",0.576],["NEtrup",0.359],["motor",0.124],["elektronika",0.509],["mala vrtule",0.418],["velka vrtule",0.516],["munice",0.312],["sklo predni P",0.251],["sklo predni L",0.312],["glass6",0.146]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58803:[["wheel_1_1_steering",0.135],["wheel_1_2_steering",0.559],["wheel_2_1_steering",0.291],["wheel_2_2_steering",0.528],["palivo",0.206],["motor",0.104],["glass1",0.349],["glass2",0.532],["glass3",0.511],["glass4",0.535],["sklo predni P",0.311],["sklo predni L",0.234],["karoserie",0.147],["wheel_1_4_steering",0.446],["wheel_2_4_steering",0.472],["wheel_1_3_steering",0.434],["wheel_2_3_steering",0.518]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58804:[["motor",0.193],["sklo predni P",0.219],["sklo predni L",0.222],["karoserie",0.109],["palivo",0.594],["wheel_1_1_steering",0.336],["wheel_2_1_steering",0.341],["wheel_1_4_steering",0.303],["wheel_2_4_steering",0.262],["wheel_1_3_steering",0.516],["wheel_2_3_steering",0.506],["wheel_1_2_steering",0.394],["wheel_2_2_steering",0.16],["glass1",0.37],["glass2",0.382],["glass3",0.599],["glass4",0.457]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58805:[["motor",0.104],["sklo predni P",0.369],["sklo predni L",0.201],["karoserie",0.322],["palivo",0.411],["wheel_1_1_steering",0.553],["wheel_2_1_steering",0.25],["wheel_1_4_steering",0.286],["wheel_2_4_steering",0.567],["wheel_1_3_steering",0.458],["wheel_2_3_steering",0.462],["wheel_1_2_steering",0.513],["wheel_2_2_steering",0.435],["glass1",0.487],["glass2",0.365],["glass3",0.163],["glass4",0.297]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58806:[["motor",0.521],["sklo predni P",0.496],["sklo predni L",0.512],["karoserie",0.321],["palivo",0.22],["wheel_1_1_steering",0.59],["wheel_2_1_steering",0.378],["wheel_1_4_steering",0.255],["wheel_2_4_steering",0.444],["wheel_1_3_steering",0.458],["wheel_2_3_steering",0.316],["wheel_1_2_steering",0.131],["wheel_2_2_steering",0.175],["glass1",0.37],["glass2",0.526],["glass3",0.313],["glass4",0.551]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58807:[["motor",0.123],["sklo predni P",0.473],["sklo predni L",0.275],["karoserie",0.373],["palivo",0.476],["wheel_1_1_steering",0.367],["wheel_2_1_steering",0.553],["wheel_1_4_steering",0.185],["wheel_2_4_steering",0.135],["wheel_1_3_steering",0.54],["wheel_2_3_steering",0.584],["wheel_1_2_steering",0.17],["wheel_2_2_steering",0.487],["glass1",0.448],["glass2",0.382],["glass3",0.562],["glass4",0.112]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58808:[["glass1",0.341],["glass2",0.261],["glass3",0.145],["glass4",0.538],["wheel_1_1_steering",0.304],["wheel_2_1_steering",0.457],["wheel_1_4_steering",0.191],["wheel_2_4_steering",0.468],["wheel_1_3_steering",0.183],["wheel_2_3_steering",0.194],["wheel_1_2_steering",0.469],["wheel_2_2_steering",0.581],["motor",0.172],["sklo predni P",0.454],["sklo predni L",0.111],["karoserie",0.245],["palivo",0.355]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58809:[["wheel_1_1_steering",0.279],["wheel_1_2_steering",0.574],["wheel_1_3_steering",0.255],["wheel_2_1_steering",0.157],["wheel_2_2_steering",0.532],["wheel_2_3_steering",0.116],["palivo",0.124],["wheel_1_4_steering",0.104],["wheel_2_4_steering",0.106],["motor",0.485],["sklo predni P",0.508],["sklo predni L",0.287],["karoserie",0.536],["glass1",0.437],["glass2",0.404],["glass3",0.309],["glass4",0.29]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58810:[["glass1",0.384],["glass2",0.406],["glass3",0.183],["motor",0.194],["palivo",0.303],["wheel_1_1_steering",0.439],["wheel_1_2_steering",0.465],["wheel_2_1_steering",0.22],["wheel_2_2_steering",0.506],["sklo predni P",0.28],["sklo predni L",0.442],["karoserie",0.462],["wheel_1_4_steering",0.112],["wheel_2_4_steering",0.463],["wheel_1_3_steering",0.275],["wheel_2_3_steering",0.351],["glass4",0.12]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58811:[["wheel_1_1_steering",0.591],["wheel_1_2_steering",0.488],["wheel_2_1_steering",0.588],["wheel_2_2_steering",0.257],["palivo",0.21],["motor",0.189],["glass1",0.291],["glass2",0.315],["glass3",0.532],["glass4",0.367],["sklo predni P",0.33],["sklo predni L",0.141],["karoserie",0.425],["wheel_1_4_steering",0.132],["wheel_2_4_steering",0.505],["wheel_1_3_steering",0.415],["wheel_2_3_steering",0.267]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58812:[["motor",0.515],["sklo predni P",0.167],["sklo predni L",0.584],["karoserie",0.341],["palivo",0.513],["wheel_1_1_steering",0.513],["wheel_2_1_steering",0.355],["wheel_1_4_steering",0.161],["wheel_2_4_steering",0.164],["wheel_1_3_steering",0.566],["wheel_2_3_steering",0.22],["wheel_1_2_steering",0.398],["wheel_2_2_steering",0.181],["glass1",0.278],["glass2",0.479],["glass3",0.375],["glass4",0.459]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58813:[["motor",0.489],["karoserie",0.444],["palivo",0.103],["levy predni tlumic",0.417],["pravy predni tlumic",0.345],["levy zadni tlumic",0.231],["pravy zadni tlumic",0.435],["sklo predni L",0.489],["sklo predni P",0.369],["sklo predni P",0.369],["sklo predni L",0.489],["wheel_1_4_steering",0.332],["wheel_2_4_steering",0.47],["wheel_1_3_steering",0.292],["wheel_2_3_steering",0.478],["glass3",0.126],["glass4",0.164]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58814:[["motor",0.203],["karoserie",0.555],["palivo",0.45],["levy predni tlumic",0.387],["pravy predni tlumic",0.531],["levy zadni tlumic",0.22],["pravy zadni tlumic",0.197],["sklo predni L",0.285],["sklo predni P",0.178],["sklo predni P",0.178],["sklo predni L",0.285],["wheel_1_4_steering",0.341],["wheel_2_4_steering",0.277],["wheel_1_3_steering",0.565],["wheel_2_3_steering",0.13],["glass3",0.528],["glass4",0.461]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58815:[["glass1",0.117],["motor",0.418],["palivo",0.176],["wheel_1_1_steering",0.223],["wheel_1_2_steering",0.397],["wheel_2_1_steering",0.345],["wheel_2_2_steering",0.554],["sklo predni P",0.421],["sklo predni L",0.588],["karoserie",0.554],["wheel_1_4_steering",0.167],["wheel_2_4_steering",0.315],["wheel_1_3_steering",0.164],["wheel_2_3_steering",0.117],["glass2",0.13],["glass3",0.54],["glass4",0.591]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58816:[["wheel_1_1_steering",0.594],["wheel_1_2_steering",0.463],["wheel_2_1_steering",0.404],["wheel_2_2_steering",0.405],["palivo",0.243],["motor",0.126],["glass1",0.457],["glass2",0.441],["glass3",0.248],["glass4",0.173],["sklo predni P",0.531],["sklo predni L",0.532],["karoserie",0.168],["wheel_1_4_steering",0.486],["wheel_2_4_steering",0.483],["wheel_1_3_steering",0.228],["wheel_2_3_steering",0.23]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58817:[["motor",0.388],["sklo predni P",0.326],["sklo predni L",0.198],["karoserie",0.555],["palivo",0.463],["wheel_1_1_steering",0.376],["wheel_2_1_steering",0.125],["wheel_1_4_steering",0.577],["wheel_2_4_steering",0.579],["wheel_1_3_steering",0.265],["wheel_2_3_steering",0.575],["wheel_1_2_steering",0.47],["wheel_2_2_steering",0.535],["glass1",0.298],["glass2",0.453],["glass3",0.142],["glass4",0.362]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58818:[["motor",0.12],["sklo predni P",0.412],["sklo predni L",0.189],["karoserie",0.569],["palivo",0.427],["wheel_1_1_steering",0.59],["wheel_2_1_steering",0.267],["wheel_1_4_steering",0.325],["wheel_2_4_steering",0.268],["wheel_1_3_steering",0.412],["wheel_2_3_steering",0.261],["wheel_1_2_steering",0.501],["wheel_2_2_steering",0.218],["glass1",0.178],["glass2",0.182],["glass3",0.521],["glass4",0.509]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58819:[["wheel_1_1_steering",0.317],["wheel_1_2_steering",0.584],["wheel_2_1_steering",0.119],["wheel_2_2_steering",0.498],["palivo",0.577],["motor",0.507],["glass1",0.578],["glass2",0.425],["glass3",0.101],["glass4",0.165],["sklo predni P",0.535],["sklo predni L",0.324],["karoserie",0.585],["wheel_1_4_steering",0.398],["wheel_2_4_steering",0.545],["wheel_1_3_steering",0.333],["wheel_2_3_steering",0.173]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58820:[["glass1",0.345],["motor",0.124],["palivo",0.194],["wheel_1_1_steering",0.563],["wheel_1_2_steering",0.225],["wheel_2_1_steering",0.558],["wheel_2_2_steering",0.481],["sklo predni P",0.453],["sklo predni L",0.12],["karoserie",0.507],["wheel_1_4_steering",0.515],["wheel_2_4_steering",0.247],["wheel_1_3_steering",0.378],["wheel_2_3_steering",0.279],["glass2",0.496],["glass3",0.331],["glass4",0.158]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58821:[["wheel_1_1_steering",0.212],["wheel_1_2_steering",0.481],["wheel_2_1_steering",0.571],["wheel_2_2_steering",0.127],["palivo",0.218],["motor",0.454],["glass1",0.483],["glass2",0.212],["glass3",0.125],["glass4",0.519],["sklo predni P",0.229],["sklo predni L",0.134],["karoserie",0.583],["wheel_1_4_steering",0.445],["wheel_2_4_steering",0.53],["wheel_1_3_steering",0.399],["wheel_2_3_steering",0.101]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58822:[["wheel_1_1_steering",0.396],["wheel_1_2_steering",0.484],["wheel_2_1_steering",0.287],["wheel_2_2_steering",0.259],["palivo",0.409],["motor",0.298],["glass1",0.258],["glass2",0.473],["glass3",0.41],["glass4",0.431],["sklo predni P",0.504],["sklo predni L",0.38],["karoserie",0.364],["wheel_1_4_steering",0.191],["wheel_2_4_steering",0.234],["wheel_1_3_steering",0.39],["wheel_2_3_steering",0.479]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58823:[["engine",0.408],["sklo predni P",0.404],["sklo predni L",0.542],["karoserie",0.444],["palivo",0.377],["Pravy predni tlumic",0.553],["Pravy zadni tlumic",0.236]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58824:[["wheel_1_1_steering",0.164],["wheel_1_2_steering",0.24],["wheel_2_1_steering",0.363],["wheel_2_2_steering",0.577],["palivo",0.121],["motor",0.348],["glass1",0.339],["glass2",0.44],["glass3",0.564],["glass4",0.263],["sklo predni P",0.344],["sklo predni L",0.497],["karoserie",0.372],["wheel_1_4_steering",0.581],["wheel_2_4_steering",0.402],["wheel_1_3_steering",0.326],["wheel_2_3_steering",0.428]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58825:[["motor",0.352],["palivo",0.105],["wheel_1_1_steering",0.367],["wheel_1_2_steering",0.161],["wheel_2_1_steering",0.449],["wheel_2_2_steering",0.578],["sklo predni P",0.168],["sklo predni L",0.204],["karoserie",0.534],["wheel_1_4_steering",0.186],["wheel_2_4_steering",0.263],["wheel_1_3_steering",0.584],["wheel_2_3_steering",0.141],["glass1",0.54],["glass2",0.249],["glass3",0.241],["glass4",0.38]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58826:[["motor",0.416],["sklo predni P",0.384],["sklo predni L",0.306],["karoserie",0.405],["palivo",0.46],["wheel_1_1_steering",0.485],["wheel_2_1_steering",0.543],["wheel_1_4_steering",0.325],["wheel_2_4_steering",0.116],["wheel_1_3_steering",0.3],["wheel_2_3_steering",0.364],["wheel_1_2_steering",0.238],["wheel_2_2_steering",0.5],["glass1",0.462],["glass2",0.37],["glass3",0.313],["glass4",0.46]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58827:[["motor",0.201],["karoserie",0.255],["palivo",0.577],["levy predni tlumic",0.436],["pravy predni tlumic",0.564],["levy zadni tlumic",0.355],["pravy zadni tlumic",0.162],["sklo predni L",0.204],["sklo predni P",0.487],["sklo predni P",0.487],["sklo predni L",0.204],["wheel_1_4_steering",0.26],["wheel_2_4_steering",0.386],["wheel_1_3_steering",0.403],["wheel_2_3_steering",0.407],["glass3",0.502],["glass4",0.148]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58828:[["motor",0.205],["sklo predni P",0.503],["sklo predni L",0.393],["karoserie",0.36],["palivo",0.544],["wheel_1_1_steering",0.474],["wheel_2_1_steering",0.312],["wheel_1_4_steering",0.429],["wheel_2_4_steering",0.546],["wheel_1_3_steering",0.569],["wheel_2_3_steering",0.587],["wheel_1_2_steering",0.175],["wheel_2_2_steering",0.439],["glass1",0.397],["glass2",0.26],["glass3",0.466],["glass4",0.567]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58829:[["motor",0.559],["sklo predni P",0.176],["sklo predni L",0.241],["karoserie",0.586],["palivo",0.425],["wheel_1_1_steering",0.273],["wheel_2_1_steering",0.383],["wheel_1_4_steering",0.496],["wheel_2_4_steering",0.176],["wheel_1_3_steering",0.36],["wheel_2_3_steering",0.133],["wheel_1_2_steering",0.252],["wheel_2_2_steering",0.382],["glass1",0.495],["glass2",0.47],["glass3",0.444],["glass4",0.197]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58831:[["glass1",0.376],["glass2",0.492],["glass3",0.125],["glass4",0.33],["wheel_1_1_steering",0.545],["wheel_2_1_steering",0.358],["wheel_1_4_steering",0.169],["wheel_2_4_steering",0.56],["wheel_1_3_steering",0.19],["wheel_2_3_steering",0.581],["wheel_1_2_steering",0.486],["wheel_2_2_steering",0.254],["motor",0.589],["sklo predni P",0.208],["sklo predni L",0.575],["karoserie",0.436],["palivo",0.494]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58832:[["motor",0.352],["sklo predni P",0.489],["sklo predni L",0.229],["karoserie",0.239],["palivo",0.368],["wheel_1_1_steering",0.234],["wheel_2_1_steering",0.504],["wheel_1_4_steering",0.478],["wheel_2_4_steering",0.117],["wheel_1_3_steering",0.511],["wheel_2_3_steering",0.328],["wheel_1_2_steering",0.192],["wheel_2_2_steering",0.259],["glass1",0.351],["glass2",0.5],["glass3",0.133],["glass4",0.549]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58833:[["glass1",0.41],["glass2",0.561],["glass3",0.382],["glass4",0.151],["wheel_1_1_steering",0.131],["wheel_1_2_steering",0.357],["wheel_2_1_steering",0.519],["wheel_2_2_steering",0.554],["motor",0.124],["sklo predni P",0.39],["sklo predni L",0.204],["karoserie",0.293],["palivo",0.444],["wheel_1_4_steering",0.289],["wheel_2_4_steering",0.507],["wheel_1_3_steering",0.194],["wheel_2_3_steering",0.518]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58834:[["motor",0.547],["karoserie",0.154],["palivo",0.493],["levy predni tlumic",0.12],["pravy predni tlumic",0.381],["levy zadni tlumic",0.52],["pravy zadni tlumic",0.548],["sklo predni L",0.26],["sklo predni P",0.114],["sklo predni P",0.114],["sklo predni L",0.26],["wheel_1_4_steering",0.135],["wheel_2_4_steering",0.271],["wheel_1_3_steering",0.316],["wheel_2_3_steering",0.141],["glass3",0.195],["glass4",0.38]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58835:[["motor",0.354],["karoserie",0.158],["palivo",0.176],["levy predni tlumic",0.362],["pravy predni tlumic",0.34],["levy zadni tlumic",0.198],["pravy zadni tlumic",0.536],["sklo predni L",0.137],["sklo predni P",0.382],["sklo predni P",0.382],["sklo predni L",0.137],["wheel_1_4_steering",0.167],["wheel_2_4_steering",0.394],["wheel_1_3_steering",0.519],["wheel_2_3_steering",0.531],["glass3",0.293],["glass4",0.145]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58836:[["wheel_1_1_steering",0.341],["wheel_1_2_steering",0.404],["wheel_2_1_steering",0.56],["wheel_2_2_steering",0.499],["palivo",0.381],["motor",0.523],["glass1",0.229],["glass2",0.58],["glass3",0.571],["glass4",0.34],["sklo predni P",0.326],["sklo predni L",0.518],["karoserie",0.487],["wheel_1_4_steering",0.392],["wheel_2_4_steering",0.415],["wheel_1_3_steering",0.533],["wheel_2_3_steering",0.313]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58837:[["motor",0.317],["karoserie",0.196],["palivo",0.38],["levy predni tlumic",0.248],["pravy predni tlumic",0.583],["levy zadni tlumic",0.165],["pravy zadni tlumic",0.205],["sklo predni L",0.34],["sklo predni P",0.329],["sklo predni P",0.329],["sklo predni L",0.34],["wheel_1_4_steering",0.35],["wheel_2_4_steering",0.193],["wheel_1_3_steering",0.33],["wheel_2_3_steering",0.15],["glass3",0.271],["glass4",0.196]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58838:[["wheel_1_1_steering",0.536],["wheel_1_2_steering",0.403],["wheel_2_1_steering",0.51],["wheel_2_2_steering",0.465],["palivo",0.397],["motor",0.467],["glass1",0.391],["glass2",0.554],["glass3",0.2],["glass4",0.538],["sklo predni P",0.365],["sklo predni L",0.362],["karoserie",0.539],["wheel_1_4_steering",0.301],["wheel_2_4_steering",0.466],["wheel_1_3_steering",0.357],["wheel_2_3_steering",0.204]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58839:[["motor",0.17],["sklo predni P",0.519],["sklo predni L",0.244],["karoserie",0.229],["palivo",0.16],["wheel_1_1_steering",0.206],["wheel_2_1_steering",0.212],["wheel_1_4_steering",0.494],["wheel_2_4_steering",0.599],["wheel_1_3_steering",0.504],["wheel_2_3_steering",0.197],["wheel_1_2_steering",0.52],["wheel_2_2_steering",0.284],["glass1",0.549],["glass2",0.333],["glass3",0.518],["glass4",0.518]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58840:[["motor",0.496],["sklo predni P",0.231],["sklo predni L",0.482],["karoserie",0.565],["palivo",0.199],["wheel_1_1_steering",0.242],["wheel_2_1_steering",0.263],["wheel_1_4_steering",0.177],["wheel_2_4_steering",0.405],["wheel_1_3_steering",0.125],["wheel_2_3_steering",0.246],["wheel_1_2_steering",0.109],["wheel_2_2_steering",0.536],["glass1",0.39],["glass2",0.54],["glass3",0.121],["glass4",0.215]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58841:[["wheel_1_1_steering",0.19],["wheel_1_2_steering",0.4],["wheel_1_3_steering",0.359],["wheel_2_1_steering",0.406],["wheel_2_2_steering",0.45],["wheel_2_3_steering",0.142],["palivo",0.203],["wheel_1_4_steering",0.166],["wheel_2_4_steering",0.487],["motor",0.413],["sklo predni P",0.125],["sklo predni L",0.251],["karoserie",0.528],["glass1",0.348],["glass2",0.249],["glass3",0.105],["glass4",0.327]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58842:[["wheel_1_1_steering",0.138],["wheel_1_2_steering",0.152],["wheel_2_1_steering",0.58],["wheel_2_2_steering",0.467],["palivo",0.224],["motor",0.267],["glass1",0.19],["glass2",0.385],["glass3",0.263],["glass4",0.282],["sklo predni P",0.519],["sklo predni L",0.511],["karoserie",0.237],["wheel_1_4_steering",0.237],["wheel_2_4_steering",0.393],["wheel_1_3_steering",0.415],["wheel_2_3_steering",0.216]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58843:[["engine",0.245],["sklo predni P",0.189],["sklo predni L",0.412],["karoserie",0.527],["palivo",0.422],["Pravy predni tlumic",0.508],["Pravy zadni tlumic",0.231]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58844:[["motor",0.315],["sklo predni P",0.102],["sklo predni L",0.378],["karoserie",0.577],["palivo",0.362],["wheel_1_1_steering",0.464],["wheel_2_1_steering",0.568],["wheel_1_4_steering",0.212],["wheel_2_4_steering",0.155],["wheel_1_3_steering",0.464],["wheel_2_3_steering",0.581],["wheel_1_2_steering",0.384],["wheel_2_2_steering",0.251],["glass1",0.417],["glass2",0.238],["glass3",0.288],["glass4",0.521]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58845:[["wheel_1_1_steering",0.423],["wheel_1_2_steering",0.43],["wheel_2_1_steering",0.251],["wheel_2_2_steering",0.404],["palivo",0.141],["motor",0.418],["glass1",0.419],["glass2",0.198],["glass3",0.324],["glass4",0.139],["sklo predni P",0.151],["sklo predni L",0.285],["karoserie",0.532],["wheel_1_4_steering",0.498],["wheel_2_4_steering",0.218],["wheel_1_3_steering",0.103],["wheel_2_3_steering",0.248]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58846:[["wheel_1_1_steering",0.302],["wheel_1_2_steering",0.575],["wheel_1_3_steering",0.21],["wheel_2_1_steering",0.151],["wheel_2_2_steering",0.336],["wheel_2_3_steering",0.117],["wheel_1_4_steering",0.412],["wheel_2_4_steering",0.5],["motor",0.529],["sklo predni P",0.26],["sklo predni L",0.377],["karoserie",0.163],["palivo",0.356],["glass1",0.248],["glass2",0.127],["glass3",0.142],["glass4",0.228]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58847:[["motor",0.302],["karoserie",0.184],["palivo",0.187],["levy predni tlumic",0.552],["pravy predni tlumic",0.509],["levy zadni tlumic",0.541],["pravy zadni tlumic",0.486],["sklo predni L",0.413],["sklo predni P",0.451],["sklo predni P",0.451],["sklo predni L",0.413],["wheel_1_4_steering",0.275],["wheel_2_4_steering",0.11],["wheel_1_3_steering",0.302],["wheel_2_3_steering",0.45],["glass3",0.216],["glass4",0.491]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58848:[["motor",0.496],["sklo predni P",0.412],["sklo predni L",0.339],["karoserie",0.451],["palivo",0.171],["wheel_1_1_steering",0.255],["wheel_2_1_steering",0.391],["wheel_1_4_steering",0.283],["wheel_2_4_steering",0.285],["wheel_1_3_steering",0.277],["wheel_2_3_steering",0.155],["wheel_1_2_steering",0.314],["wheel_2_2_steering",0.149],["glass1",0.504],["glass2",0.523],["glass3",0.547],["glass4",0.231]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58849:[["motor",0.385],["palivo",0.209],["wheel_1_1_steering",0.273],["wheel_1_2_steering",0.451],["wheel_2_1_steering",0.308],["wheel_2_2_steering",0.19],["sklo predni P",0.154],["sklo predni L",0.152],["karoserie",0.51],["wheel_1_4_steering",0.281],["wheel_2_4_steering",0.105],["wheel_1_3_steering",0.116],["wheel_2_3_steering",0.554],["glass1",0.101],["glass2",0.336],["glass3",0.598],["glass4",0.282]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58850:[["motor",0.391],["sklo predni P",0.444],["sklo predni L",0.292],["karoserie",0.3],["palivo",0.26],["wheel_1_1_steering",0.412],["wheel_2_1_steering",0.312],["wheel_1_4_steering",0.252],["wheel_2_4_steering",0.141],["wheel_1_3_steering",0.441],["wheel_2_3_steering",0.595],["wheel_1_2_steering",0.577],["wheel_2_2_steering",0.197],["glass1",0.386],["glass2",0.254],["glass3",0.538],["glass4",0.379]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58851:[["NEtrup",0.499],["motor",0.257],["elektronika",0.363],["mala vrtule",0.171],["velka vrtule",0.235],["munice",0.271],["sklo predni P",0.358],["sklo predni L",0.531],["glass1",0.558],["glass2",0.144],["glass3",0.527],["glass4",0.25],["glass5",0.234],["glass6",0.201]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58852:[["wheel_1_1_steering",0.298],["wheel_1_2_steering",0.46],["wheel_2_1_steering",0.322],["wheel_2_2_steering",0.246],["palivo",0.517],["motor",0.276],["glass1",0.515],["glass2",0.54],["glass3",0.128],["glass4",0.561],["sklo predni P",0.223],["sklo predni L",0.487],["karoserie",0.1],["wheel_1_4_steering",0.378],["wheel_2_4_steering",0.316],["wheel_1_3_steering",0.293],["wheel_2_3_steering",0.289]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58853:[["motor",0.283],["sklo predni P",0.298],["sklo predni L",0.314],["karoserie",0.136],["palivo",0.292],["wheel_1_1_steering",0.554],["wheel_2_1_steering",0.423],["wheel_1_4_steering",0.254],["wheel_2_4_steering",0.56],["wheel_1_3_steering",0.198],["wheel_2_3_steering",0.474],["wheel_1_2_steering",0.226],["wheel_2_2_steering",0.434],["glass1",0.162],["glass2",0.277],["glass3",0.36],["glass4",0.403]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58854:[["glass1",0.122],["motor",0.135],["palivo",0.464],["wheel_1_1_steering",0.468],["wheel_1_2_steering",0.562],["wheel_2_1_steering",0.201],["wheel_2_2_steering",0.118],["sklo predni P",0.103],["sklo predni L",0.523],["karoserie",0.124],["wheel_1_4_steering",0.58],["wheel_2_4_steering",0.238],["wheel_1_3_steering",0.541],["wheel_2_3_steering",0.266],["glass2",0.21],["glass3",0.446],["glass4",0.575]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58855:[["wheel_1_1_steering",0.406],["wheel_1_2_steering",0.515],["wheel_1_3_steering",0.1],["wheel_2_1_steering",0.425],["wheel_2_2_steering",0.443],["wheel_2_3_steering",0.309],["wheel_1_4_steering",0.258],["wheel_2_4_steering",0.465],["motor",0.3],["sklo predni P",0.307],["sklo predni L",0.168],["karoserie",0.533],["palivo",0.196],["glass1",0.423],["glass2",0.272],["glass3",0.205],["glass4",0.343]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58856:[["wheel_1_1_steering",0.364],["wheel_1_2_steering",0.521],["wheel_2_1_steering",0.476],["wheel_2_2_steering",0.356],["palivo",0.336],["motor",0.344],["glass1",0.449],["glass2",0.395],["glass3",0.374],["glass4",0.3],["sklo predni P",0.584],["sklo predni L",0.119],["karoserie",0.277],["wheel_1_4_steering",0.454],["wheel_2_4_steering",0.515],["wheel_1_3_steering",0.477],["wheel_2_3_steering",0.205]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58857:[["glass1",0.544],["glass2",0.253],["glass3",0.201],["glass4",0.176],["wheel_1_1_steering",0.504],["wheel_1_2_steering",0.207],["wheel_2_1_steering",0.13],["wheel_2_2_steering",0.436],["motor",0.27],["sklo predni P",0.141],["sklo predni L",0.593],["karoserie",0.342],["palivo",0.515],["wheel_1_4_steering",0.439],["wheel_2_4_steering",0.502],["wheel_1_3_steering",0.363],["wheel_2_3_steering",0.499]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58858:[["glass5",0.459],["glass6",0.259],["motor",0.25],["sklo predni P",0.345],["sklo predni L",0.265],["karoserie",0.594],["palivo",0.587],["wheel_1_1_steering",0.134],["wheel_2_1_steering",0.222],["wheel_1_4_steering",0.267],["wheel_2_4_steering",0.258],["wheel_1_3_steering",0.407],["wheel_2_3_steering",0.162],["wheel_1_2_steering",0.344],["wheel_2_2_steering",0.553],["glass1",0.308],["glass2",0.235],["glass3",0.364],["glass4",0.414]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58859:[["wheel_1_1_steering",0.565],["wheel_1_2_steering",0.231],["wheel_2_1_steering",0.52],["wheel_2_2_steering",0.54],["palivo",0.274],["motor",0.528],["glass1",0.332],["glass2",0.122],["glass3",0.472],["glass4",0.174],["sklo predni P",0.57],["sklo predni L",0.118],["karoserie",0.595],["wheel_1_4_steering",0.579],["wheel_2_4_steering",0.362],["wheel_1_3_steering",0.335],["wheel_2_3_steering",0.179]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58860:[["motor",0.554],["karoserie",0.179],["palivo",0.306],["levy predni tlumic",0.264],["pravy predni tlumic",0.14],["levy zadni tlumic",0.556],["pravy zadni tlumic",0.597],["sklo predni L",0.282],["sklo predni P",0.117],["sklo predni P",0.117],["sklo predni L",0.282],["wheel_1_4_steering",0.307],["wheel_2_4_steering",0.34],["wheel_1_3_steering",0.424],["wheel_2_3_steering",0.496],["glass3",0.199],["glass4",0.147]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58861:[["wheel_1_1_steering",0.318],["wheel_1_2_steering",0.362],["wheel_2_1_steering",0.116],["wheel_2_2_steering",0.428],["palivo",0.57],["motor",0.363],["glass1",0.402],["glass2",0.177],["glass3",0.111],["glass4",0.337],["sklo predni P",0.253],["sklo predni L",0.318],["karoserie",0.364],["wheel_1_4_steering",0.346],["wheel_2_4_steering",0.577],["wheel_1_3_steering",0.559],["wheel_2_3_steering",0.564]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58862:[["glass1",0.2],["glass2",0.309],["glass3",0.51],["glass4",0.208],["wheel_1_1_steering",0.134],["wheel_1_2_steering",0.188],["wheel_2_1_steering",0.573],["wheel_2_2_steering",0.136],["motor",0.227],["sklo predni P",0.413],["sklo predni L",0.248],["karoserie",0.161],["palivo",0.264],["wheel_1_4_steering",0.137],["wheel_2_4_steering",0.307],["wheel_1_3_steering",0.444],["wheel_2_3_steering",0.548]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58863:[["motor",0.245],["karoserie",0.461],["palivo",0.222],["levy predni tlumic",0.233],["pravy predni tlumic",0.275],["levy zadni tlumic",0.411],["pravy zadni tlumic",0.138],["sklo predni L",0.433],["sklo predni P",0.254],["sklo predni P",0.254],["sklo predni L",0.433],["wheel_1_4_steering",0.586],["wheel_2_4_steering",0.438],["wheel_1_3_steering",0.294],["wheel_2_3_steering",0.286],["glass3",0.136],["glass4",0.266]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58864:[["motor",0.279],["karoserie",0.231],["palivo",0.115],["levy predni tlumic",0.463],["pravy predni tlumic",0.171],["levy zadni tlumic",0.449],["pravy zadni tlumic",0.386],["sklo predni L",0.573],["sklo predni P",0.585],["sklo predni P",0.585],["sklo predni L",0.573],["wheel_1_4_steering",0.197],["wheel_2_4_steering",0.106],["wheel_1_3_steering",0.559],["wheel_2_3_steering",0.349],["glass3",0.409],["glass4",0.6]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58865:[["wheel_1_1_steering",0.106],["wheel_1_2_steering",0.547],["wheel_2_1_steering",0.292],["wheel_2_2_steering",0.196],["palivo",0.395],["motor",0.475],["glass1",0.262],["glass2",0.456],["glass3",0.252],["glass4",0.532],["sklo predni P",0.417],["sklo predni L",0.554],["karoserie",0.114],["wheel_1_4_steering",0.579],["wheel_2_4_steering",0.173],["wheel_1_3_steering",0.579],["wheel_2_3_steering",0.547]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58866:[["motor",0.156],["sklo predni P",0.252],["sklo predni L",0.577],["karoserie",0.153],["palivo",0.385],["wheel_1_1_steering",0.555],["wheel_2_1_steering",0.594],["wheel_1_4_steering",0.154],["wheel_2_4_steering",0.144],["wheel_1_3_steering",0.485],["wheel_2_3_steering",0.439],["wheel_1_2_steering",0.511],["wheel_2_2_steering",0.235],["glass1",0.599],["glass2",0.173],["glass3",0.446],["glass4",0.439]]:0:""
+12:22:16 "HIVE: WRITE: "CHILD:306:58867:[["NEtrup",0.403],["palivo",0.108],["motor",0.321],["elektronika",0.43],["mala vrtule",0.475],["velka vrtule",0.152],["munice",0.33],["sklo predni P",0.205],["sklo predni L",0.217],["glass1",0.375],["glass2",0.301],["glass3",0.403],["glass4",0.44],["glass5",0.516],["glass6",0.247]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58868:[["wheel_1_1_steering",0.238],["wheel_1_2_steering",0.221],["wheel_2_1_steering",0.287],["wheel_2_2_steering",0.468],["palivo",0.178],["motor",0.489],["glass1",0.583],["glass2",0.497],["glass3",0.341],["glass4",0.486],["sklo predni P",0.32],["sklo predni L",0.161],["karoserie",0.35],["wheel_1_4_steering",0.203],["wheel_2_4_steering",0.565],["wheel_1_3_steering",0.194],["wheel_2_3_steering",0.301]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58869:[["glass1",0.339],["glass2",0.148],["glass3",0.177],["glass4",0.548],["wheel_1_1_steering",0.526],["wheel_1_2_steering",0.307],["wheel_2_1_steering",0.178],["wheel_2_2_steering",0.101],["motor",0.406],["sklo predni P",0.304],["sklo predni L",0.364],["karoserie",0.443],["palivo",0.182],["wheel_1_4_steering",0.243],["wheel_2_4_steering",0.465],["wheel_1_3_steering",0.215],["wheel_2_3_steering",0.38]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58870:[["wheel_1_1_steering",0.168],["wheel_2_1_steering",0.415],["wheel_1_4_steering",0.124],["wheel_2_4_steering",0.226],["wheel_1_3_steering",0.435],["wheel_2_3_steering",0.242],["wheel_1_2_steering",0.507],["wheel_2_2_steering",0.208],["motor",0.318],["sklo predni P",0.533],["sklo predni L",0.32],["karoserie",0.429],["palivo",0.197],["glass1",0.29],["glass2",0.542],["glass3",0.409],["glass4",0.51]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58871:[["motor",0.231],["karoserie",0.282],["palivo",0.573],["levy predni tlumic",0.232],["pravy predni tlumic",0.285],["levy zadni tlumic",0.207],["pravy zadni tlumic",0.419],["sklo predni L",0.359],["sklo predni P",0.112],["sklo predni P",0.112],["sklo predni L",0.359],["wheel_1_4_steering",0.596],["wheel_2_4_steering",0.389],["wheel_1_3_steering",0.224],["wheel_2_3_steering",0.169],["glass3",0.337],["glass4",0.319]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58872:[["motor",0.445],["karoserie",0.18],["palivo",0.149],["levy predni tlumic",0.486],["pravy predni tlumic",0.487],["levy zadni tlumic",0.159],["pravy zadni tlumic",0.431],["sklo predni L",0.29],["sklo predni P",0.106],["sklo predni P",0.106],["sklo predni L",0.29],["wheel_1_4_steering",0.226],["wheel_2_4_steering",0.38],["wheel_1_3_steering",0.396],["wheel_2_3_steering",0.18],["glass3",0.374],["glass4",0.198]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58874:[["motor",0.238],["karoserie",0.123],["palivo",0.261],["levy predni tlumic",0.274],["pravy predni tlumic",0.576],["levy zadni tlumic",0.441],["pravy zadni tlumic",0.262],["sklo predni L",0.173],["sklo predni P",0.161],["sklo predni P",0.161],["sklo predni L",0.173],["wheel_1_4_steering",0.254],["wheel_2_4_steering",0.597],["wheel_1_3_steering",0.415],["wheel_2_3_steering",0.509],["glass3",0.408],["glass4",0.397]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58875:[["NEtrup",0.194],["palivo",0.433],["motor",0.353],["elektronika",0.174],["mala vrtule",0.495],["velka vrtule",0.464],["munice",0.592],["sklo predni P",0.448],["sklo predni L",0.21],["glass1",0.458],["glass2",0.117],["glass3",0.493],["glass4",0.336],["glass5",0.383],["glass6",0.135]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58876:[["wheel_1_1_steering",0.103],["wheel_1_2_steering",0.585],["wheel_2_1_steering",0.574],["wheel_2_2_steering",0.591],["motor",0.577],["sklo predni P",0.529],["sklo predni L",0.109],["karoserie",0.148],["palivo",0.445],["wheel_1_4_steering",0.115],["wheel_2_4_steering",0.196],["wheel_1_3_steering",0.167],["wheel_2_3_steering",0.266],["glass1",0.318],["glass2",0.355],["glass3",0.116],["glass4",0.402]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58877:[["motor",0.276],["karoserie",0.372],["palivo",0.57],["levy predni tlumic",0.2],["pravy predni tlumic",0.361],["levy zadni tlumic",0.243],["pravy zadni tlumic",0.445],["sklo predni L",0.552],["sklo predni P",0.138],["sklo predni P",0.138],["sklo predni L",0.552],["wheel_1_4_steering",0.5],["wheel_2_4_steering",0.192],["wheel_1_3_steering",0.116],["wheel_2_3_steering",0.101],["glass3",0.454],["glass4",0.537]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58878:[["motor",0.563],["sklo predni P",0.468],["sklo predni L",0.478],["karoserie",0.438],["palivo",0.176],["wheel_1_1_steering",0.475],["wheel_2_1_steering",0.387],["wheel_1_4_steering",0.264],["wheel_2_4_steering",0.156],["wheel_1_3_steering",0.241],["wheel_2_3_steering",0.213],["wheel_1_2_steering",0.433],["wheel_2_2_steering",0.552],["glass1",0.297],["glass2",0.118],["glass3",0.225],["glass4",0.192]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58879:[["motor",0.33],["sklo predni P",0.139],["sklo predni L",0.385],["karoserie",0.128],["palivo",0.28],["wheel_1_1_steering",0.554],["wheel_2_1_steering",0.231],["wheel_1_4_steering",0.199],["wheel_2_4_steering",0.356],["wheel_1_3_steering",0.213],["wheel_2_3_steering",0.273],["wheel_1_2_steering",0.114],["wheel_2_2_steering",0.124],["glass1",0.518],["glass2",0.216],["glass3",0.567],["glass4",0.579]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58880:[["wheel_1_1_steering",0.522],["wheel_1_2_steering",0.235],["wheel_2_1_steering",0.588],["wheel_2_2_steering",0.283],["palivo",0.323],["glass1",0.212],["glass2",0.586],["glass3",0.263],["glass4",0.503],["motor",0.285],["sklo predni P",0.389],["sklo predni L",0.146],["karoserie",0.3],["wheel_1_4_steering",0.54],["wheel_2_4_steering",0.595],["wheel_1_3_steering",0.221],["wheel_2_3_steering",0.553]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58881:[["motor",0.103],["sklo predni P",0.156],["sklo predni L",0.276],["karoserie",0.354],["palivo",0.502],["wheel_1_1_steering",0.112],["wheel_2_1_steering",0.391],["wheel_1_4_steering",0.206],["wheel_2_4_steering",0.164],["wheel_1_3_steering",0.559],["wheel_2_3_steering",0.591],["wheel_1_2_steering",0.36],["wheel_2_2_steering",0.169],["glass1",0.163],["glass2",0.21],["glass3",0.11],["glass4",0.41]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58882:[["wheel_1_1_steering",0.391],["wheel_1_2_steering",0.583],["wheel_2_1_steering",0.555],["wheel_2_2_steering",0.478],["palivo",0.315],["glass1",0.209],["glass2",0.139],["glass3",0.25],["glass4",0.544],["motor",0.252],["sklo predni P",0.537],["sklo predni L",0.15],["karoserie",0.25],["wheel_1_4_steering",0.375],["wheel_2_4_steering",0.296],["wheel_1_3_steering",0.599],["wheel_2_3_steering",0.187]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58883:[["wheel_1_1_steering",0.151],["wheel_1_2_steering",0.439],["wheel_2_1_steering",0.407],["wheel_2_2_steering",0.173],["palivo",0.256],["motor",0.526],["glass1",0.536],["glass2",0.269],["glass3",0.282],["glass4",0.478],["sklo predni P",0.563],["sklo predni L",0.142],["karoserie",0.514],["wheel_1_4_steering",0.297],["wheel_2_4_steering",0.257],["wheel_1_3_steering",0.234],["wheel_2_3_steering",0.121]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58884:[["glass1",0.311],["glass2",0.423],["glass3",0.534],["glass4",0.284],["telo",0.314]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58885:[["motor",0.167],["palivo",0.332],["wheel_1_1_steering",0.363],["wheel_1_2_steering",0.191],["wheel_2_1_steering",0.575],["wheel_2_2_steering",0.531],["sklo predni P",0.385],["sklo predni L",0.173],["karoserie",0.104],["wheel_1_4_steering",0.288],["wheel_2_4_steering",0.361],["wheel_1_3_steering",0.418],["wheel_2_3_steering",0.591],["glass1",0.572],["glass2",0.49],["glass3",0.355],["glass4",0.204]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58886:[["wheel_1_1_steering",0.257],["wheel_1_2_steering",0.276],["wheel_2_1_steering",0.459],["wheel_2_2_steering",0.421],["palivo",0.326],["glass1",0.114],["glass2",0.161],["glass3",0.192],["glass4",0.215],["motor",0.293],["sklo predni P",0.307],["sklo predni L",0.503],["karoserie",0.58],["wheel_1_4_steering",0.519],["wheel_2_4_steering",0.173],["wheel_1_3_steering",0.219],["wheel_2_3_steering",0.107]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58887:[["motor",0.152],["sklo predni P",0.142],["sklo predni L",0.248],["karoserie",0.419],["palivo",0.563],["wheel_1_1_steering",0.469],["wheel_2_1_steering",0.35],["wheel_1_4_steering",0.129],["wheel_2_4_steering",0.531],["wheel_1_3_steering",0.333],["wheel_2_3_steering",0.418],["wheel_1_2_steering",0.481],["wheel_2_2_steering",0.582],["glass1",0.132],["glass2",0.291],["glass3",0.204],["glass4",0.144]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58888:[["motor",0.545],["sklo predni P",0.285],["sklo predni L",0.571],["karoserie",0.25],["palivo",0.568],["wheel_1_1_steering",0.12],["wheel_2_1_steering",0.315],["wheel_1_4_steering",0.397],["wheel_2_4_steering",0.51],["wheel_1_3_steering",0.431],["wheel_2_3_steering",0.226],["wheel_1_2_steering",0.491],["wheel_2_2_steering",0.323],["glass1",0.339],["glass2",0.141],["glass3",0.592],["glass4",0.54]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58889:[["glass1",0.292],["glass2",0.598],["glass3",0.201],["glass4",0.481],["wheel_1_1_steering",0.127],["wheel_2_1_steering",0.471],["wheel_1_4_steering",0.131],["wheel_2_4_steering",0.448],["wheel_1_3_steering",0.41],["wheel_2_3_steering",0.277],["wheel_1_2_steering",0.102],["wheel_2_2_steering",0.131],["motor",0.429],["sklo predni P",0.152],["sklo predni L",0.424],["karoserie",0.368],["palivo",0.273]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58890:[["glass1",0.209],["motor",0.274],["palivo",0.478],["wheel_1_1_steering",0.331],["wheel_1_2_steering",0.308],["wheel_2_1_steering",0.427],["wheel_2_2_steering",0.124],["sklo predni P",0.157],["sklo predni L",0.258],["karoserie",0.386],["wheel_1_4_steering",0.247],["wheel_2_4_steering",0.498],["wheel_1_3_steering",0.237],["wheel_2_3_steering",0.493],["glass2",0.247],["glass3",0.42],["glass4",0.443]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58891:[["motor",0.49],["sklo predni P",0.552],["sklo predni L",0.455],["karoserie",0.136],["palivo",0.553],["wheel_1_1_steering",0.587],["wheel_2_1_steering",0.338],["wheel_1_4_steering",0.29],["wheel_2_4_steering",0.315],["wheel_1_3_steering",0.104],["wheel_2_3_steering",0.48],["wheel_1_2_steering",0.401],["wheel_2_2_steering",0.209],["glass1",0.298],["glass2",0.495],["glass3",0.488],["glass4",0.585]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58892:[["wheel_1_1_steering",0.317],["wheel_1_2_steering",0.341],["wheel_2_1_steering",0.583],["wheel_2_2_steering",0.142],["palivo",0.387],["motor",0.127],["glass1",0.591],["glass2",0.396],["glass3",0.144],["glass4",0.34],["sklo predni P",0.504],["sklo predni L",0.192],["karoserie",0.437],["wheel_1_4_steering",0.383],["wheel_2_4_steering",0.154],["wheel_1_3_steering",0.205],["wheel_2_3_steering",0.515]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58893:[["glass1",0.414],["glass2",0.272],["glass3",0.222],["glass4",0.421],["glass5",0.182],["NEtrup",0.314],["motor",0.386],["elektronika",0.533],["mala vrtule",0.464],["velka vrtule",0.366],["munice",0.396],["sklo predni P",0.146],["sklo predni L",0.333],["glass6",0.355]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58894:[["motor",0.17],["sklo predni P",0.143],["sklo predni L",0.591],["karoserie",0.356],["palivo",0.158],["wheel_1_1_steering",0.285],["wheel_2_1_steering",0.495],["wheel_1_4_steering",0.481],["wheel_2_4_steering",0.518],["wheel_1_3_steering",0.356],["wheel_2_3_steering",0.318],["wheel_1_2_steering",0.131],["wheel_2_2_steering",0.505],["glass1",0.116],["glass2",0.106],["glass3",0.174],["glass4",0.16]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58895:[["wheel_1_1_steering",0.285],["wheel_1_2_steering",0.221],["wheel_1_3_steering",0.58],["wheel_2_1_steering",0.325],["wheel_2_2_steering",0.323],["wheel_2_3_steering",0.296],["palivo",0.171],["wheel_1_4_steering",0.456],["wheel_2_4_steering",0.208],["motor",0.132],["sklo predni P",0.364],["sklo predni L",0.351],["karoserie",0.29],["glass1",0.239],["glass2",0.212],["glass3",0.461],["glass4",0.221]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58896:[["NEtrup",0.539],["palivo",0.532],["motor",0.455],["elektronika",0.146],["mala vrtule",0.248],["velka vrtule",0.282],["munice",0.411],["sklo predni P",0.401],["sklo predni L",0.487],["glass1",0.528],["glass2",0.163],["glass3",0.583],["glass4",0.59],["glass5",0.3],["glass6",0.439]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58897:[["motor",0.192],["karoserie",0.468],["palivo",0.485],["levy predni tlumic",0.575],["pravy predni tlumic",0.483],["levy zadni tlumic",0.321],["pravy zadni tlumic",0.593],["sklo predni L",0.439],["sklo predni P",0.487],["sklo predni P",0.487],["sklo predni L",0.439],["wheel_1_4_steering",0.514],["wheel_2_4_steering",0.519],["wheel_1_3_steering",0.221],["wheel_2_3_steering",0.504],["glass3",0.348],["glass4",0.381]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58898:[["motor",0.371],["palivo",0.406],["wheel_1_1_steering",0.226],["wheel_1_2_steering",0.18],["wheel_2_1_steering",0.428],["wheel_2_2_steering",0.552],["sklo predni P",0.261],["sklo predni L",0.437],["karoserie",0.589],["wheel_1_4_steering",0.241],["wheel_2_4_steering",0.197],["wheel_1_3_steering",0.255],["wheel_2_3_steering",0.219],["glass1",0.241],["glass2",0.246],["glass3",0.519],["glass4",0.264]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58899:[["motor",0.475],["sklo predni P",0.287],["sklo predni L",0.507],["karoserie",0.579],["palivo",0.205],["wheel_1_1_steering",0.466],["wheel_2_1_steering",0.17],["wheel_1_4_steering",0.547],["wheel_2_4_steering",0.193],["wheel_1_3_steering",0.577],["wheel_2_3_steering",0.524],["wheel_1_2_steering",0.36],["wheel_2_2_steering",0.395],["glass1",0.127],["glass2",0.315],["glass3",0.163],["glass4",0.393]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58900:[["wheel_1_1_steering",0.573],["wheel_1_2_steering",0.312],["wheel_2_1_steering",0.365],["wheel_2_2_steering",0.216],["palivo",0.235],["motor",0.323],["glass1",0.453],["glass2",0.282],["glass3",0.284],["glass4",0.406],["sklo predni P",0.521],["sklo predni L",0.565],["karoserie",0.244],["wheel_1_4_steering",0.366],["wheel_2_4_steering",0.321],["wheel_1_3_steering",0.541],["wheel_2_3_steering",0.299]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58901:[["glass1",0.341],["glass2",0.429],["glass3",0.428],["glass4",0.568],["wheel_1_1_steering",0.457],["wheel_2_1_steering",0.354],["wheel_1_4_steering",0.15],["wheel_2_4_steering",0.472],["wheel_1_3_steering",0.111],["wheel_2_3_steering",0.258],["wheel_1_2_steering",0.329],["wheel_2_2_steering",0.515],["motor",0.13],["sklo predni P",0.434],["sklo predni L",0.411],["karoserie",0.293],["palivo",0.572]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58902:[["motor",0.437],["karoserie",0.106],["palivo",0.233],["levy predni tlumic",0.425],["pravy predni tlumic",0.265],["levy zadni tlumic",0.302],["pravy zadni tlumic",0.597],["sklo predni L",0.173],["sklo predni P",0.225],["sklo predni P",0.225],["sklo predni L",0.173],["wheel_1_4_steering",0.371],["wheel_2_4_steering",0.247],["wheel_1_3_steering",0.261],["wheel_2_3_steering",0.315],["glass3",0.265],["glass4",0.125]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58903:[["wheel_1_1_steering",0.137],["wheel_1_2_steering",0.206],["wheel_2_1_steering",0.169],["wheel_2_2_steering",0.401],["palivo",0.437],["motor",0.257],["glass1",0.431],["glass2",0.591],["glass3",0.108],["glass4",0.533],["sklo predni P",0.415],["sklo predni L",0.126],["karoserie",0.464],["wheel_1_4_steering",0.16],["wheel_2_4_steering",0.122],["wheel_1_3_steering",0.205],["wheel_2_3_steering",0.106]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58904:[["motor",0.533],["karoserie",0.209],["palivo",0.272],["levy predni tlumic",0.33],["pravy predni tlumic",0.361],["levy zadni tlumic",0.111],["pravy zadni tlumic",0.178],["sklo predni L",0.487],["sklo predni P",0.121],["sklo predni P",0.121],["sklo predni L",0.487],["wheel_1_4_steering",0.484],["wheel_2_4_steering",0.202],["wheel_1_3_steering",0.257],["wheel_2_3_steering",0.319],["glass3",0.395],["glass4",0.171]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58905:[["motor",0.162],["sklo predni P",0.262],["sklo predni L",0.456],["karoserie",0.328],["palivo",0.302],["wheel_1_1_steering",0.21],["wheel_2_1_steering",0.316],["wheel_1_4_steering",0.169],["wheel_2_4_steering",0.139],["wheel_1_3_steering",0.528],["wheel_2_3_steering",0.204],["wheel_1_2_steering",0.147],["wheel_2_2_steering",0.278],["glass1",0.325],["glass2",0.33],["glass3",0.172],["glass4",0.1]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58906:[["motor",0.229],["karoserie",0.479],["palivo",0.145],["levy predni tlumic",0.184],["pravy predni tlumic",0.258],["levy zadni tlumic",0.443],["pravy zadni tlumic",0.6],["sklo predni L",0.252],["sklo predni P",0.366],["sklo predni P",0.366],["sklo predni L",0.252],["wheel_1_4_steering",0.178],["wheel_2_4_steering",0.275],["wheel_1_3_steering",0.16],["wheel_2_3_steering",0.502],["glass3",0.106],["glass4",0.139]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58907:[["engine",0.458],["sklo predni P",0.211],["sklo predni L",0.49],["karoserie",0.429],["palivo",0.32],["Pravy predni tlumic",0.162],["Pravy zadni tlumic",0.435]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58909:[["glass1",0.177],["glass2",0.456],["glass3",0.105],["glass4",0.414],["glass5",0.425],["NEtrup",0.497],["motor",0.356],["elektronika",0.17],["mala vrtule",0.4],["velka vrtule",0.554],["munice",0.366],["sklo predni P",0.243],["sklo predni L",0.158],["glass6",0.446]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58911:[["motor",0.556],["karoserie",0.396],["palivo",0.588],["levy predni tlumic",0.555],["pravy predni tlumic",0.181],["levy zadni tlumic",0.378],["pravy zadni tlumic",0.557],["sklo predni L",0.419],["sklo predni P",0.211],["sklo predni P",0.211],["sklo predni L",0.419],["wheel_1_4_steering",0.159],["wheel_2_4_steering",0.115],["wheel_1_3_steering",0.276],["wheel_2_3_steering",0.31],["glass3",0.111],["glass4",0.208]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58912:[["NEtrup",0.232],["motor",0.104],["elektronika",0.483],["mala vrtule",0.345],["velka vrtule",0.427],["glass1",0.502],["glass2",0.301],["glass3",0.496],["glass4",0.44],["glass5",0.389],["glass6",0.522],["glass7",0.502],["glass8",0.427],["glass9",0.5],["glass10",0.246],["glass11",0.586],["glass12",0.54],["glass13",0.483],["glass14",0.321],["glass15",0.537],["glass16",0.231],["glass17",0.275],["glass18",0.567],["glass19",0.27],["glass20",0.467],["munice",0.422],["sklo predni P",0.286],["sklo predni L",0.347]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58913:[["motor",0.502],["sklo predni P",0.526],["sklo predni L",0.127],["karoserie",0.194],["palivo",0.592],["wheel_1_1_steering",0.405],["wheel_2_1_steering",0.132],["wheel_1_4_steering",0.56],["wheel_2_4_steering",0.425],["wheel_1_3_steering",0.533],["wheel_2_3_steering",0.278],["wheel_1_2_steering",0.444],["wheel_2_2_steering",0.295],["glass1",0.453],["glass2",0.13],["glass3",0.214],["glass4",0.256]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58914:[["wheel_1_1_steering",0.398],["wheel_1_2_steering",0.306],["wheel_2_1_steering",0.184],["wheel_2_2_steering",0.589],["palivo",0.274],["motor",0.113],["glass1",0.498],["glass2",0.232],["glass3",0.525],["glass4",0.362],["sklo predni P",0.44],["sklo predni L",0.427],["karoserie",0.433],["wheel_1_4_steering",0.13],["wheel_2_4_steering",0.424],["wheel_1_3_steering",0.57],["wheel_2_3_steering",0.399]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58915:[["motor",0.285],["karoserie",0.411],["palivo",0.24],["levy predni tlumic",0.525],["pravy predni tlumic",0.172],["levy zadni tlumic",0.174],["pravy zadni tlumic",0.585],["sklo predni L",0.123],["sklo predni P",0.246],["sklo predni P",0.246],["sklo predni L",0.123],["wheel_1_4_steering",0.134],["wheel_2_4_steering",0.103],["wheel_1_3_steering",0.36],["wheel_2_3_steering",0.323],["glass3",0.442],["glass4",0.236]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58916:[["motor",0.564],["karoserie",0.511],["palivo",0.538],["levy predni tlumic",0.293],["pravy predni tlumic",0.589],["levy zadni tlumic",0.36],["pravy zadni tlumic",0.358],["sklo predni L",0.303],["sklo predni P",0.238],["sklo predni P",0.238],["sklo predni L",0.303],["wheel_1_4_steering",0.204],["wheel_2_4_steering",0.229],["wheel_1_3_steering",0.348],["wheel_2_3_steering",0.531],["glass3",0.587],["glass4",0.274]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58917:[["wheel_1_1_steering",0.516],["wheel_1_2_steering",0.399],["wheel_2_1_steering",0.585],["wheel_2_2_steering",0.588],["palivo",0.564],["motor",0.184],["glass1",0.214],["glass2",0.368],["glass3",0.368],["glass4",0.437],["sklo predni P",0.347],["sklo predni L",0.221],["karoserie",0.198],["wheel_1_4_steering",0.505],["wheel_2_4_steering",0.552],["wheel_1_3_steering",0.157],["wheel_2_3_steering",0.212]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58918:[["motor",0.522],["sklo predni P",0.366],["sklo predni L",0.393],["karoserie",0.552],["palivo",0.293],["wheel_1_1_steering",0.121],["wheel_2_1_steering",0.23],["wheel_1_4_steering",0.198],["wheel_2_4_steering",0.303],["wheel_1_3_steering",0.376],["wheel_2_3_steering",0.151],["wheel_1_2_steering",0.498],["wheel_2_2_steering",0.593],["glass1",0.575],["glass2",0.266],["glass3",0.455],["glass4",0.323]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58919:[["wheel_1_1_steering",0.157],["wheel_1_2_steering",0.131],["wheel_1_3_steering",0.595],["wheel_2_1_steering",0.105],["wheel_2_2_steering",0.545],["wheel_2_3_steering",0.395],["wheel_1_4_steering",0.318],["wheel_2_4_steering",0.143],["motor",0.242],["sklo predni P",0.387],["sklo predni L",0.522],["karoserie",0.369],["palivo",0.34],["glass1",0.409],["glass2",0.55],["glass3",0.284],["glass4",0.141]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58920:[["motor",0.31],["karoserie",0.244],["palivo",0.194],["levy predni tlumic",0.547],["pravy predni tlumic",0.227],["levy zadni tlumic",0.547],["pravy zadni tlumic",0.241],["sklo predni L",0.222],["sklo predni P",0.107],["sklo predni P",0.107],["sklo predni L",0.222],["wheel_1_4_steering",0.324],["wheel_2_4_steering",0.36],["wheel_1_3_steering",0.476],["wheel_2_3_steering",0.49],["glass3",0.399],["glass4",0.378]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58921:[["glass1",0.161],["glass2",0.539],["glass3",0.558],["glass4",0.494],["wheel_1_1_steering",0.534],["wheel_2_1_steering",0.36],["wheel_1_4_steering",0.159],["wheel_2_4_steering",0.481],["wheel_1_3_steering",0.192],["wheel_2_3_steering",0.152],["wheel_1_2_steering",0.362],["wheel_2_2_steering",0.219],["motor",0.116],["sklo predni P",0.298],["sklo predni L",0.6],["karoserie",0.136],["palivo",0.39]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58922:[["motor",0.245],["karoserie",0.148],["palivo",0.159],["levy predni tlumic",0.24],["pravy predni tlumic",0.303],["levy zadni tlumic",0.226],["pravy zadni tlumic",0.143],["sklo predni L",0.404],["sklo predni P",0.267],["sklo predni P",0.267],["sklo predni L",0.404],["wheel_1_4_steering",0.133],["wheel_2_4_steering",0.526],["wheel_1_3_steering",0.372],["wheel_2_3_steering",0.237],["glass3",0.465],["glass4",0.314]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58923:[["motor",0.573],["karoserie",0.257],["palivo",0.512],["levy predni tlumic",0.493],["pravy predni tlumic",0.462],["levy zadni tlumic",0.368],["pravy zadni tlumic",0.345],["sklo predni L",0.424],["sklo predni P",0.572],["sklo predni P",0.572],["sklo predni L",0.424],["wheel_1_4_steering",0.319],["wheel_2_4_steering",0.425],["wheel_1_3_steering",0.452],["wheel_2_3_steering",0.121],["glass3",0.439],["glass4",0.402]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58924:[["motor",0.331],["sklo predni P",0.559],["sklo predni L",0.252],["karoserie",0.323],["palivo",0.446],["wheel_1_1_steering",0.597],["wheel_2_1_steering",0.133],["wheel_1_4_steering",0.159],["wheel_2_4_steering",0.413],["wheel_1_3_steering",0.228],["wheel_2_3_steering",0.483],["wheel_1_2_steering",0.149],["wheel_2_2_steering",0.145],["glass1",0.357],["glass2",0.105],["glass3",0.347],["glass4",0.366]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58925:[["motor",0.313],["palivo",0.422],["wheel_1_1_steering",0.239],["wheel_1_2_steering",0.426],["wheel_2_1_steering",0.208],["wheel_2_2_steering",0.198],["sklo predni P",0.385],["sklo predni L",0.463],["karoserie",0.412],["wheel_1_4_steering",0.215],["wheel_2_4_steering",0.152],["wheel_1_3_steering",0.281],["wheel_2_3_steering",0.156],["glass1",0.363],["glass2",0.26],["glass3",0.307],["glass4",0.153]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58926:[["motor",0.595],["karoserie",0.15],["palivo",0.448],["levy predni tlumic",0.375],["pravy predni tlumic",0.409],["levy zadni tlumic",0.557],["pravy zadni tlumic",0.58],["sklo predni L",0.457],["sklo predni P",0.588],["sklo predni P",0.588],["sklo predni L",0.457],["wheel_1_4_steering",0.297],["wheel_2_4_steering",0.496],["wheel_1_3_steering",0.544],["wheel_2_3_steering",0.104],["glass3",0.141],["glass4",0.131]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58927:[["motor",0.124],["sklo predni P",0.254],["sklo predni L",0.227],["karoserie",0.144],["palivo",0.502],["wheel_1_1_steering",0.365],["wheel_2_1_steering",0.256],["wheel_1_4_steering",0.457],["wheel_2_4_steering",0.348],["wheel_1_3_steering",0.207],["wheel_2_3_steering",0.247],["wheel_1_2_steering",0.527],["wheel_2_2_steering",0.599],["glass1",0.263],["glass2",0.257],["glass3",0.437],["glass4",0.497]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58928:[["glass1",0.227],["motor",0.115],["palivo",0.538],["wheel_1_1_steering",0.22],["wheel_1_2_steering",0.17],["wheel_2_1_steering",0.435],["wheel_2_2_steering",0.334],["sklo predni P",0.204],["sklo predni L",0.274],["karoserie",0.249],["wheel_1_4_steering",0.111],["wheel_2_4_steering",0.514],["wheel_1_3_steering",0.495],["wheel_2_3_steering",0.32],["glass2",0.543],["glass3",0.427],["glass4",0.382]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58929:[["motor",0.416],["sklo predni P",0.395],["sklo predni L",0.141],["karoserie",0.415],["palivo",0.293],["wheel_1_1_steering",0.548],["wheel_2_1_steering",0.308],["wheel_1_4_steering",0.51],["wheel_2_4_steering",0.554],["wheel_1_3_steering",0.234],["wheel_2_3_steering",0.373],["wheel_1_2_steering",0.469],["wheel_2_2_steering",0.353],["glass1",0.165],["glass2",0.475],["glass3",0.445],["glass4",0.44]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58930:[["glass1",0.491],["glass2",0.407],["glass3",0.336],["glass4",0.319],["wheel_1_1_steering",0.386],["wheel_2_1_steering",0.545],["wheel_1_4_steering",0.419],["wheel_2_4_steering",0.553],["wheel_1_3_steering",0.302],["wheel_2_3_steering",0.405],["wheel_1_2_steering",0.501],["wheel_2_2_steering",0.413],["motor",0.149],["sklo predni P",0.484],["sklo predni L",0.259],["karoserie",0.507],["palivo",0.217]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58931:[["wheel_1_1_steering",0.322],["wheel_1_2_steering",0.445],["wheel_2_1_steering",0.393],["wheel_2_2_steering",0.471],["palivo",0.498],["motor",0.483],["glass1",0.585],["glass2",0.501],["glass3",0.506],["glass4",0.343],["sklo predni P",0.303],["sklo predni L",0.461],["karoserie",0.265],["wheel_1_4_steering",0.558],["wheel_2_4_steering",0.242],["wheel_1_3_steering",0.326],["wheel_2_3_steering",0.289]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58932:[["motor",0.55],["sklo predni P",0.573],["sklo predni L",0.19],["karoserie",0.413],["palivo",0.578],["wheel_1_1_steering",0.158],["wheel_2_1_steering",0.188],["wheel_1_4_steering",0.218],["wheel_2_4_steering",0.428],["wheel_1_3_steering",0.416],["wheel_2_3_steering",0.288],["wheel_1_2_steering",0.508],["wheel_2_2_steering",0.537],["glass1",0.185],["glass2",0.181],["glass3",0.272],["glass4",0.136]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58933:[["glass1",0.198],["glass2",0.34],["glass3",0.516],["glass4",0.483],["wheel_1_1_steering",0.162],["wheel_2_1_steering",0.362],["wheel_1_4_steering",0.319],["wheel_2_4_steering",0.291],["wheel_1_3_steering",0.473],["wheel_2_3_steering",0.335],["wheel_1_2_steering",0.438],["wheel_2_2_steering",0.459],["motor",0.285],["sklo predni P",0.476],["sklo predni L",0.138],["karoserie",0.528],["palivo",0.27]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58934:[["glass1",0.269],["glass2",0.281],["glass3",0.409],["motor",0.133],["palivo",0.185],["wheel_1_1_steering",0.359],["wheel_1_2_steering",0.519],["wheel_2_1_steering",0.405],["wheel_2_2_steering",0.172],["sklo predni P",0.14],["sklo predni L",0.413],["karoserie",0.453],["wheel_1_4_steering",0.243],["wheel_2_4_steering",0.565],["wheel_1_3_steering",0.487],["wheel_2_3_steering",0.127],["glass4",0.123]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58935:[["motor",0.556],["sklo predni P",0.452],["sklo predni L",0.111],["karoserie",0.4],["palivo",0.103],["wheel_1_1_steering",0.184],["wheel_2_1_steering",0.122],["wheel_1_4_steering",0.499],["wheel_2_4_steering",0.344],["wheel_1_3_steering",0.3],["wheel_2_3_steering",0.31],["wheel_1_2_steering",0.565],["wheel_2_2_steering",0.258],["glass1",0.5],["glass2",0.235],["glass3",0.314],["glass4",0.402]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58936:[["motor",0.428],["karoserie",0.229],["palivo",0.318],["levy predni tlumic",0.424],["pravy predni tlumic",0.113],["levy zadni tlumic",0.102],["pravy zadni tlumic",0.415],["sklo predni L",0.448],["sklo predni P",0.317],["sklo predni P",0.317],["sklo predni L",0.448],["wheel_1_4_steering",0.105],["wheel_2_4_steering",0.306],["wheel_1_3_steering",0.241],["wheel_2_3_steering",0.497],["glass3",0.357],["glass4",0.288]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58937:[["motor",0.339],["karoserie",0.182],["palivo",0.13],["levy predni tlumic",0.138],["pravy predni tlumic",0.265],["levy zadni tlumic",0.136],["pravy zadni tlumic",0.542],["sklo predni L",0.104],["sklo predni P",0.172],["sklo predni P",0.172],["sklo predni L",0.104],["wheel_1_4_steering",0.342],["wheel_2_4_steering",0.45],["wheel_1_3_steering",0.316],["wheel_2_3_steering",0.201],["glass3",0.219],["glass4",0.187]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58938:[["glass1",0.409],["motor",0.298],["palivo",0.473],["wheel_1_1_steering",0.311],["wheel_1_2_steering",0.513],["wheel_2_1_steering",0.312],["wheel_2_2_steering",0.141],["sklo predni P",0.215],["sklo predni L",0.109],["karoserie",0.272],["wheel_1_4_steering",0.143],["wheel_2_4_steering",0.133],["wheel_1_3_steering",0.213],["wheel_2_3_steering",0.528],["glass2",0.599],["glass3",0.374],["glass4",0.17]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58939:[["motor",0.235],["sklo predni P",0.588],["sklo predni L",0.501],["karoserie",0.431],["palivo",0.261],["wheel_1_1_steering",0.299],["wheel_2_1_steering",0.294],["wheel_1_4_steering",0.6],["wheel_2_4_steering",0.25],["wheel_1_3_steering",0.262],["wheel_2_3_steering",0.42],["wheel_1_2_steering",0.256],["wheel_2_2_steering",0.378],["glass1",0.339],["glass2",0.528],["glass3",0.155],["glass4",0.131]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58940:[["wheel_1_1_steering",0.352],["wheel_1_2_steering",0.429],["wheel_2_1_steering",0.175],["wheel_2_2_steering",0.312],["palivo",0.503],["motor",0.58],["glass1",0.19],["glass2",0.582],["glass3",0.145],["glass4",0.315],["sklo predni P",0.558],["sklo predni L",0.103],["karoserie",0.523],["wheel_1_4_steering",0.131],["wheel_2_4_steering",0.166],["wheel_1_3_steering",0.183],["wheel_2_3_steering",0.598]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58941:[["wheel_1_1_steering",0.308],["wheel_1_2_steering",0.416],["wheel_2_1_steering",0.261],["wheel_2_2_steering",0.173],["palivo",0.205],["motor",0.398],["glass1",0.205],["glass2",0.197],["glass3",0.424],["glass4",0.242],["sklo predni P",0.132],["sklo predni L",0.338],["karoserie",0.133],["wheel_1_4_steering",0.255],["wheel_2_4_steering",0.423],["wheel_1_3_steering",0.296],["wheel_2_3_steering",0.307]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58942:[["wheel_1_1_steering",0.284],["wheel_1_2_steering",0.192],["wheel_2_1_steering",0.119],["wheel_2_2_steering",0.177],["motor",0.511],["sklo predni P",0.325],["sklo predni L",0.568],["karoserie",0.559],["palivo",0.439],["wheel_1_4_steering",0.472],["wheel_2_4_steering",0.575],["wheel_1_3_steering",0.172],["wheel_2_3_steering",0.233],["glass1",0.138],["glass2",0.172],["glass3",0.51],["glass4",0.279]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58943:[["glass1",0.473],["glass2",0.499],["glass3",0.392],["glass4",0.56],["wheel_1_1_steering",0.545],["wheel_1_2_steering",0.338],["wheel_2_1_steering",0.373],["wheel_2_2_steering",0.11],["motor",0.173],["sklo predni P",0.4],["sklo predni L",0.203],["karoserie",0.293],["palivo",0.233],["wheel_1_4_steering",0.333],["wheel_2_4_steering",0.179],["wheel_1_3_steering",0.106],["wheel_2_3_steering",0.469]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58944:[["glass1",0.524],["glass2",0.3],["glass3",0.102],["glass4",0.252],["wheel_1_1_steering",0.454],["wheel_1_2_steering",0.493],["wheel_2_1_steering",0.357],["wheel_2_2_steering",0.543],["motor",0.583],["sklo predni P",0.56],["sklo predni L",0.335],["karoserie",0.107],["palivo",0.168],["wheel_1_4_steering",0.296],["wheel_2_4_steering",0.161],["wheel_1_3_steering",0.438],["wheel_2_3_steering",0.569]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58945:[["motor",0.318],["karoserie",0.32],["palivo",0.251],["levy predni tlumic",0.482],["pravy predni tlumic",0.481],["levy zadni tlumic",0.542],["pravy zadni tlumic",0.303],["sklo predni L",0.161],["sklo predni P",0.297],["sklo predni P",0.297],["sklo predni L",0.161],["wheel_1_4_steering",0.224],["wheel_2_4_steering",0.56],["wheel_1_3_steering",0.33],["wheel_2_3_steering",0.358],["glass3",0.578],["glass4",0.363]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58946:[["motor",0.101],["karoserie",0.255],["palivo",0.367],["levy predni tlumic",0.131],["pravy predni tlumic",0.439],["levy zadni tlumic",0.132],["pravy zadni tlumic",0.24],["sklo predni L",0.194],["sklo predni P",0.153],["sklo predni P",0.153],["sklo predni L",0.194],["wheel_1_4_steering",0.242],["wheel_2_4_steering",0.471],["wheel_1_3_steering",0.274],["wheel_2_3_steering",0.151],["glass3",0.247],["glass4",0.198]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58947:[["wheel_1_1_steering",0.196],["wheel_1_2_steering",0.138],["wheel_2_1_steering",0.229],["wheel_2_2_steering",0.124],["palivo",0.141],["motor",0.322],["glass1",0.178],["glass2",0.132],["glass3",0.509],["glass4",0.205],["sklo predni P",0.42],["sklo predni L",0.575],["karoserie",0.361],["wheel_1_4_steering",0.288],["wheel_2_4_steering",0.298],["wheel_1_3_steering",0.277],["wheel_2_3_steering",0.524]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58948:[["motor",0.286],["karoserie",0.324],["palivo",0.469],["levy predni tlumic",0.263],["pravy predni tlumic",0.109],["levy zadni tlumic",0.473],["pravy zadni tlumic",0.321],["sklo predni L",0.53],["sklo predni P",0.127],["sklo predni P",0.127],["sklo predni L",0.53],["wheel_1_4_steering",0.369],["wheel_2_4_steering",0.46],["wheel_1_3_steering",0.317],["wheel_2_3_steering",0.111],["glass3",0.416],["glass4",0.594]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58949:[["motor",0.543],["karoserie",0.218],["palivo",0.174],["levy predni tlumic",0.429],["pravy predni tlumic",0.302],["levy zadni tlumic",0.577],["pravy zadni tlumic",0.407],["sklo predni L",0.516],["sklo predni P",0.412],["sklo predni P",0.412],["sklo predni L",0.516],["wheel_1_4_steering",0.436],["wheel_2_4_steering",0.355],["wheel_1_3_steering",0.483],["wheel_2_3_steering",0.308],["glass3",0.154],["glass4",0.243]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58950:[["glass1",0.349],["glass2",0.454],["glass3",0.457],["glass4",0.523],["wheel_1_1_steering",0.269],["wheel_1_2_steering",0.487],["wheel_2_1_steering",0.223],["wheel_2_2_steering",0.446],["motor",0.584],["sklo predni P",0.23],["sklo predni L",0.521],["karoserie",0.412],["palivo",0.408],["wheel_1_4_steering",0.161],["wheel_2_4_steering",0.182],["wheel_1_3_steering",0.35],["wheel_2_3_steering",0.389]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58951:[["wheel_1_1_steering",0.491],["wheel_1_2_steering",0.33],["wheel_2_1_steering",0.503],["wheel_2_2_steering",0.299],["palivo",0.443],["motor",0.422],["glass1",0.343],["glass2",0.319],["glass3",0.315],["glass4",0.254],["sklo predni P",0.154],["sklo predni L",0.496],["karoserie",0.385],["wheel_1_4_steering",0.177],["wheel_2_4_steering",0.348],["wheel_1_3_steering",0.534],["wheel_2_3_steering",0.57]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58952:[["wheel_1_1_steering",0.226],["wheel_1_2_steering",0.503],["wheel_2_1_steering",0.461],["wheel_2_2_steering",0.515],["palivo",0.479],["glass1",0.174],["glass2",0.587],["glass3",0.38],["glass4",0.519],["motor",0.319],["sklo predni P",0.551],["sklo predni L",0.209],["karoserie",0.318],["wheel_1_4_steering",0.185],["wheel_2_4_steering",0.446],["wheel_1_3_steering",0.188],["wheel_2_3_steering",0.576]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58954:[["motor",0.508],["sklo predni P",0.546],["sklo predni L",0.578],["karoserie",0.332],["palivo",0.446],["wheel_1_1_steering",0.583],["wheel_2_1_steering",0.286],["wheel_1_4_steering",0.301],["wheel_2_4_steering",0.259],["wheel_1_3_steering",0.274],["wheel_2_3_steering",0.172],["wheel_1_2_steering",0.396],["wheel_2_2_steering",0.496],["glass1",0.246],["glass2",0.36],["glass3",0.424],["glass4",0.139]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58955:[["wheel_1_1_steering",0.468],["wheel_1_2_steering",0.432],["wheel_2_1_steering",0.451],["wheel_2_2_steering",0.526],["palivo",0.587],["motor",0.523],["glass1",0.318],["glass2",0.128],["glass3",0.493],["glass4",0.578],["sklo predni P",0.115],["sklo predni L",0.513],["karoserie",0.594],["wheel_1_4_steering",0.164],["wheel_2_4_steering",0.359],["wheel_1_3_steering",0.593],["wheel_2_3_steering",0.296]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58956:[["wheel_1_1_steering",0.278],["wheel_1_2_steering",0.595],["wheel_2_1_steering",0.134],["wheel_2_2_steering",0.56],["palivo",0.396],["motor",0.474],["glass1",0.333],["glass2",0.449],["glass3",0.389],["glass4",0.408],["sklo predni P",0.145],["sklo predni L",0.163],["karoserie",0.586],["wheel_1_4_steering",0.258],["wheel_2_4_steering",0.226],["wheel_1_3_steering",0.415],["wheel_2_3_steering",0.338]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58958:[["wheel_1_1_steering",0.442],["wheel_1_2_steering",0.346],["wheel_1_3_steering",0.351],["wheel_2_1_steering",0.361],["wheel_2_2_steering",0.447],["wheel_2_3_steering",0.154],["wheel_1_4_steering",0.447],["wheel_2_4_steering",0.38],["motor",0.237],["sklo predni P",0.413],["sklo predni L",0.58],["karoserie",0.364],["palivo",0.101],["glass1",0.205],["glass2",0.525],["glass3",0.195],["glass4",0.594]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58959:[["motor",0.578],["sklo predni P",0.232],["sklo predni L",0.305],["karoserie",0.529],["palivo",0.166],["wheel_1_1_steering",0.388],["wheel_2_1_steering",0.342],["wheel_1_4_steering",0.363],["wheel_2_4_steering",0.206],["wheel_1_3_steering",0.461],["wheel_2_3_steering",0.519],["wheel_1_2_steering",0.49],["wheel_2_2_steering",0.512],["glass1",0.576],["glass2",0.227],["glass3",0.29],["glass4",0.59]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58960:[["motor",0.288],["sklo predni P",0.392],["sklo predni L",0.409],["karoserie",0.176],["palivo",0.214],["wheel_1_1_steering",0.325],["wheel_2_1_steering",0.419],["wheel_1_4_steering",0.394],["wheel_2_4_steering",0.354],["wheel_1_3_steering",0.296],["wheel_2_3_steering",0.571],["wheel_1_2_steering",0.495],["wheel_2_2_steering",0.536],["glass1",0.161],["glass2",0.488],["glass3",0.382],["glass4",0.317]]:0:""
+12:22:17 "HIVE: WRITE: "CHILD:306:58961:[["glass1",0.291],["glass2",0.588],["glass3",0.142],["glass4",0.135],["glass5",0.357],["glass6",0.554],["NEtrup",0.398],["motor",0.261],["elektronika",0.32],["mala vrtule",0.595],["velka vrtule",0.577],["munice",0.155],["sklo predni P",0.22],["sklo predni L",0.58]]:0:""
+12:22:22 "infiSTAR.de Log: DOOR UNLOCK ATTEMPT: ID:58341 UID:0 BY HighFlyer(76561198302675871) @141125 Code Entered: 000 | Correct Code: 673"
+12:22:51 "infiSTAR.de PVAH_WriteLog: B 1-1-B:1 (HighFlyer) REMOTE   HighFlyer - added ItemHotwireKit to his inventory"
+12:23:33 "WAI: [Mission:[Hero] Disabled Military Chopper]: Starting... [1942.26,5417.92,0]"
+12:23:33 "WAI: Spawned a group of 2 AI (Bandit) at [1942.26,5417.92,0]"
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 "WAI: Spawned a group of 2 AI (Bandit) at [1942.26,5417.92,0]"
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 No owner
+12:23:33 "WAI: Spawned a group of 2 AI (Bandit) at [1942.26,5417.92,0]"
+12:23:33 "WAI: Spawned a group of 2 AI (Bandit) at [1942.26,5417.92,0]"
+12:23:34 "WAI: Spawned in 4 M2StaticMG"
+12:26:25 "TIME SYNC: Local Time set to [2013,8,3,13,26]"
+12:26:31 "WAI: [Mission:[Bandit] Ural Attack]: Starting... [10604.6,8254.93,0]"
+12:26:32 No owner
+12:26:32 No owner
+12:26:32 No owner
+12:26:32 No owner
+12:26:32 "WAI: Spawned a group of 3 AI (Hero) at [10604.6,8254.93,0]"
+12:26:32 "WAI: Spawned a group of 3 AI (Hero) at [10604.6,8254.93,0]"
+12:26:32 "WAI: Spawned a group of 3 AI (Hero) at [10604.6,8254.93,0]"
+12:26:32 "WAI: Spawned a group of 3 AI (Hero) at [10604.6,8254.93,0]"
+12:26:58 "WAI: [Mission:[Hero] Bandit Stronghold]: Starting... [1066.93,11858.8,0]"
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 "WAI: Spawned a group of 7 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 "WAI: Spawned a group of 2 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:58 "WAI: Spawned a group of 5 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 "WAI: Spawned a group of 5 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 No owner
+12:26:58 "WAI: Spawned a group of 5 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:58 "WAI: Spawned a group of 4 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 "WAI: Spawned a group of 2 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:59 "WAI: Spawned a group of 5 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:59 "WAI: Spawned a group of 5 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 "WAI: Spawned a group of 4 AI (Bandit) at [1066.93,11858.8,0]"
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 No owner
+12:26:59 "WAI: Spawned a group of 2 AI (Bandit) at [1066.93,11858.8,0]"

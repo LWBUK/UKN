@@ -1,0 +1,15 @@
+01.03.2017 20:12:57: Ziltoid (86.131.103.232:2304) bc07c7c39c76cf95a7a434d686d9df66 - #2 ") then {
+_debug set [2,2];
+_platform = "MetalFloor_DZ" createVehicleLocal _debug;
+_platform setPosASL _debug;
+_platform allowDam"
+01.03.2017 20:12:58: Ziltoid (86.131.103.232:2304) bc07c7c39c76cf95a7a434d686d9df66 - #2 ") then {
+_debug set [2,2];
+_platform = "MetalFloor_DZ" createVehicleLocal _debug;
+_platform setPosASL _debug;
+_platform allowDam"
+01.03.2017 20:12:59: Ziltoid (86.131.103.232:2304) bc07c7c39c76cf95a7a434d686d9df66 - #2 ") then {
+_debug set [2,2];
+_platform = "MetalFloor_DZ" createVehicleLocal _debug;
+_platform setPosASL _debug;
+_platform allowDam"
